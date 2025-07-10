@@ -1,0 +1,1001 @@
+Order ID,Order Date,Region,Product Category,Sub-Category,Sales,Quantity,Discount,Profit,Year,Month
+ORD-1000,2023-09-11,North,Electronics,Headphones,1299.97,3,0.22,284.92,2023,September
+ORD-1001,2023-09-13,Central,Electronics,Camera,255.74,2,0.07,45.1,2023,September
+ORD-1002,2024-07-18,North,Furniture,Shelf,1180.16,10,0.08,315.49,2024,July
+ORD-1003,2024-05-01,South,Home Decor,Rug,1461.57,4,0.29,196.07,2024,May
+ORD-1004,2024-12-17,North,Home Decor,Lamp,1859.0,6,0.18,468.06,2024,December
+ORD-1005,2024-09-08,West,Electronics,Camera,486.12,5,0.25,99.47,2024,September
+ORD-1006,2024-10-25,East,Furniture,Chair,324.54,4,0.23,96.16,2024,October
+ORD-1007,2023-10-14,South,Electronics,Camera,1462.07,6,0.05,202.96,2023,October
+ORD-1008,2024-07-01,East,Electronics,Laptop,2717.29,4,0.05,393.64,2024,July
+ORD-1009,2023-11-16,Central,Furniture,Couch,4229.97,1,0.07,245.44,2023,November
+ORD-1010,2023-11-25,East,Home Decor,Rug,424.32,10,0.26,54.6,2023,November
+ORD-1011,2023-08-19,West,Home Decor,Vase,800.07,3,0.07,152.29,2023,August
+ORD-1012,2024-05-17,East,Home Decor,Vase,1873.78,3,0.15,136.28,2024,May
+ORD-1013,2025-03-27,North,Electronics,Laptop,3174.49,7,0.18,464.08,2025,March
+ORD-1014,2025-01-25,Central,Home Decor,Rug,4858.28,1,0.2,382.05,2025,January
+ORD-1015,2023-12-13,Central,Clothing,Shoes,646.61,7,0.05,32.86,2023,December
+ORD-1016,2023-11-01,East,Furniture,Chair,4365.54,5,0.25,772.33,2023,November
+ORD-1017,2023-11-01,South,Furniture,Couch,3836.3,9,0.29,1076.5,2023,November
+ORD-1018,2023-08-01,North,Clothing,Jacket,195.44,6,0.26,50.41,2023,August
+ORD-1019,2025-06-26,East,Furniture,Chair,1280.27,10,0.28,91.43,2025,June
+ORD-1020,2024-12-20,West,Electronics,Laptop,729.12,8,0.28,66.56,2024,December
+ORD-1021,2023-07-14,Central,Home Decor,Clock,4651.68,4,0.21,696.58,2023,July
+ORD-1022,2023-08-21,East,Home Decor,Vase,692.92,4,0.02,38.29,2023,August
+ORD-1023,2024-06-13,Central,Furniture,Table,135.24,1,0.07,37.37,2024,June
+ORD-1024,2023-08-31,East,Electronics,Laptop,1464.54,8,0.06,121.67,2023,August
+ORD-1025,2024-01-22,Central,Home Decor,Clock,3944.64,7,0.06,292.82,2024,January
+ORD-1026,2024-11-03,West,Clothing,Jacket,2114.4,1,0.2,625.95,2024,November
+ORD-1027,2023-08-24,North,Electronics,Camera,3668.25,2,0.07,357.85,2023,August
+ORD-1028,2024-03-25,West,Furniture,Shelf,999.09,8,0.07,280.56,2024,March
+ORD-1029,2023-10-19,West,Electronics,Mobile,3295.51,9,0.25,963.11,2023,October
+ORD-1030,2023-07-31,South,Furniture,Shelf,2479.64,4,0.26,683.42,2023,July
+ORD-1031,2024-09-23,South,Home Decor,Lamp,4928.01,5,0.28,1213.68,2024,September
+ORD-1032,2023-10-09,East,Home Decor,Vase,858.5,5,0.07,55.48,2023,October
+ORD-1033,2025-01-29,Central,Electronics,Headphones,380.11,10,0.14,106.37,2025,January
+ORD-1034,2024-07-23,Central,Furniture,Chair,4807.82,2,0.26,322.75,2024,July
+ORD-1035,2023-07-14,North,Furniture,Shelf,687.44,10,0.07,136.55,2023,July
+ORD-1036,2025-04-18,Central,Electronics,Camera,3321.13,10,0.16,942.13,2025,April
+ORD-1037,2024-09-09,South,Clothing,Jeans,1401.51,3,0.2,175.19,2024,September
+ORD-1038,2024-11-13,East,Electronics,Mobile,2345.6,10,0.3,160.24,2024,November
+ORD-1039,2024-06-21,South,Clothing,Jeans,4672.97,2,0.26,665.35,2024,June
+ORD-1040,2025-04-03,South,Home Decor,Rug,3097.22,9,0.0,787.55,2025,April
+ORD-1041,2023-09-16,East,Electronics,Laptop,1395.88,2,0.22,124.04,2023,September
+ORD-1042,2025-02-09,East,Furniture,Couch,1097.63,5,0.15,123.79,2025,February
+ORD-1043,2023-08-29,North,Electronics,Camera,4163.81,1,0.0,1010.89,2023,August
+ORD-1044,2024-08-11,East,Furniture,Shelf,2803.23,7,0.17,218.56,2024,August
+ORD-1045,2023-10-15,South,Electronics,Headphones,2954.3,3,0.13,178.61,2023,October
+ORD-1046,2024-07-22,East,Electronics,Headphones,1129.38,4,0.2,156.33,2024,July
+ORD-1047,2025-02-01,Central,Home Decor,Clock,4636.24,4,0.26,1363.29,2025,February
+ORD-1048,2024-08-06,South,Home Decor,Lamp,978.87,6,0.23,149.7,2024,August
+ORD-1049,2025-05-18,South,Clothing,Jeans,3958.14,2,0.11,236.23,2025,May
+ORD-1050,2023-08-20,West,Furniture,Table,4101.27,8,0.1,1046.37,2023,August
+ORD-1051,2024-11-10,South,Furniture,Chair,3334.16,7,0.1,887.18,2024,November
+ORD-1052,2024-01-01,East,Clothing,Jacket,3429.64,9,0.1,195.15,2024,January
+ORD-1053,2024-11-05,East,Furniture,Couch,287.46,10,0.13,66.73,2024,November
+ORD-1054,2023-10-17,East,Home Decor,Lamp,1987.46,10,0.06,121.43,2023,October
+ORD-1055,2024-06-27,West,Electronics,Laptop,1884.69,2,0.28,528.08,2024,June
+ORD-1056,2024-02-19,Central,Clothing,Shirt,3626.8,5,0.15,786.01,2024,February
+ORD-1057,2025-01-02,East,Home Decor,Rug,2816.62,4,0.13,802.99,2025,January
+ORD-1058,2024-12-30,South,Clothing,Jacket,2784.89,1,0.09,285.58,2024,December
+ORD-1059,2024-11-09,Central,Clothing,Jacket,2264.75,4,0.15,562.64,2024,November
+ORD-1060,2023-08-07,South,Electronics,Headphones,2625.71,10,0.1,668.52,2023,August
+ORD-1061,2025-01-15,South,Clothing,Jeans,4052.16,3,0.01,450.64,2025,January
+ORD-1062,2025-04-02,West,Electronics,Camera,2130.76,10,0.06,477.48,2025,April
+ORD-1063,2025-05-21,West,Home Decor,Clock,823.1,1,0.27,218.21,2025,May
+ORD-1064,2025-06-15,North,Home Decor,Clock,961.84,9,0.14,182.13,2025,June
+ORD-1065,2024-05-16,North,Home Decor,Clock,4026.94,9,0.3,800.81,2024,May
+ORD-1066,2024-07-05,West,Home Decor,Vase,4496.32,8,0.14,1069.87,2024,July
+ORD-1067,2025-04-20,East,Home Decor,Clock,1445.53,2,0.21,157.02,2025,April
+ORD-1068,2024-11-13,East,Clothing,Shirt,778.03,4,0.11,68.62,2024,November
+ORD-1069,2024-02-15,South,Electronics,Camera,2097.24,9,0.14,137.51,2024,February
+ORD-1070,2025-03-21,West,Home Decor,Lamp,4297.99,10,0.11,221.23,2025,March
+ORD-1071,2025-04-11,East,Clothing,Jacket,4281.89,7,0.16,1000.5,2025,April
+ORD-1072,2024-08-30,Central,Furniture,Shelf,1175.17,7,0.15,173.0,2024,August
+ORD-1073,2023-06-29,West,Furniture,Shelf,4605.75,10,0.16,1274.56,2023,June
+ORD-1074,2023-09-21,Central,Electronics,Mobile,3249.47,3,0.26,310.1,2023,September
+ORD-1075,2025-05-26,East,Home Decor,Rug,1137.14,6,0.1,306.93,2025,May
+ORD-1076,2024-10-09,East,Home Decor,Rug,4191.06,8,0.01,774.74,2024,October
+ORD-1077,2023-12-16,East,Furniture,Chair,3928.04,1,0.23,1128.93,2023,December
+ORD-1078,2025-02-15,South,Electronics,Laptop,1268.87,8,0.2,242.34,2025,February
+ORD-1079,2024-06-12,South,Home Decor,Rug,3857.8,3,0.18,1122.36,2024,June
+ORD-1080,2023-08-27,North,Furniture,Couch,629.68,1,0.28,122.13,2023,August
+ORD-1081,2024-02-11,West,Home Decor,Clock,472.38,4,0.03,114.85,2024,February
+ORD-1082,2024-01-04,Central,Electronics,Mobile,1801.3,7,0.2,121.12,2024,January
+ORD-1083,2023-07-30,East,Electronics,Camera,4129.42,2,0.13,580.38,2023,July
+ORD-1084,2023-09-06,West,Furniture,Shelf,963.07,9,0.29,113.18,2023,September
+ORD-1085,2024-06-15,Central,Home Decor,Vase,2234.32,10,0.08,587.47,2024,June
+ORD-1086,2023-07-13,North,Clothing,Jacket,1294.93,8,0.17,281.06,2023,July
+ORD-1087,2023-11-20,East,Electronics,Camera,4269.67,3,0.15,592.23,2023,November
+ORD-1088,2024-05-21,East,Clothing,Shoes,4413.57,5,0.17,790.72,2024,May
+ORD-1089,2023-07-02,South,Electronics,Laptop,3628.37,8,0.17,399.41,2023,July
+ORD-1090,2023-09-12,West,Home Decor,Vase,3985.37,2,0.09,602.19,2023,September
+ORD-1091,2025-02-24,South,Clothing,Shoes,2418.98,9,0.1,723.66,2025,February
+ORD-1092,2024-11-22,Central,Clothing,Shoes,3543.99,5,0.09,381.46,2024,November
+ORD-1093,2024-10-24,South,Clothing,Shirt,3740.12,3,0.06,877.62,2024,October
+ORD-1094,2025-01-24,East,Clothing,Shirt,4179.88,5,0.07,396.51,2025,January
+ORD-1095,2025-06-06,North,Furniture,Couch,323.03,1,0.17,72.47,2025,June
+ORD-1096,2024-08-21,South,Home Decor,Lamp,4376.33,10,0.09,742.57,2024,August
+ORD-1097,2024-04-18,East,Furniture,Chair,1337.14,8,0.03,88.7,2024,April
+ORD-1098,2023-09-26,West,Electronics,Mobile,843.46,10,0.28,60.13,2023,September
+ORD-1099,2023-10-11,South,Electronics,Camera,3070.96,10,0.07,554.75,2023,October
+ORD-1100,2024-10-14,West,Home Decor,Rug,4314.82,7,0.09,885.65,2024,October
+ORD-1101,2023-08-24,Central,Electronics,Laptop,3165.02,5,0.2,282.52,2023,August
+ORD-1102,2024-05-12,South,Electronics,Laptop,113.11,8,0.21,18.94,2024,May
+ORD-1103,2023-08-26,North,Furniture,Couch,3564.08,8,0.02,386.19,2023,August
+ORD-1104,2024-12-18,East,Furniture,Shelf,662.4,4,0.19,183.55,2024,December
+ORD-1105,2024-08-29,South,Electronics,Mobile,913.02,5,0.18,233.79,2024,August
+ORD-1106,2025-05-02,East,Home Decor,Lamp,2396.62,5,0.21,684.64,2025,May
+ORD-1107,2023-12-10,Central,Home Decor,Vase,494.17,1,0.27,115.45,2023,December
+ORD-1108,2025-05-24,Central,Clothing,Shirt,547.5,10,0.18,30.21,2025,May
+ORD-1109,2023-09-07,East,Electronics,Laptop,2405.45,8,0.27,229.41,2023,September
+ORD-1110,2025-04-23,Central,Home Decor,Vase,4848.37,8,0.1,646.42,2025,April
+ORD-1111,2025-05-07,North,Furniture,Couch,2117.06,8,0.09,606.11,2025,May
+ORD-1112,2025-02-20,Central,Electronics,Camera,531.49,5,0.1,155.49,2025,February
+ORD-1113,2025-04-07,West,Electronics,Camera,2124.91,4,0.16,437.01,2025,April
+ORD-1114,2024-02-11,West,Home Decor,Lamp,1097.44,9,0.04,133.9,2024,February
+ORD-1115,2024-09-25,West,Electronics,Mobile,4868.42,10,0.24,1107.3,2024,September
+ORD-1116,2025-03-08,East,Electronics,Camera,556.73,2,0.14,44.19,2025,March
+ORD-1117,2025-01-02,South,Home Decor,Rug,2593.47,5,0.12,442.51,2025,January
+ORD-1118,2024-08-24,West,Furniture,Shelf,2801.2,7,0.06,559.8,2024,August
+ORD-1119,2024-07-14,South,Electronics,Headphones,3886.11,7,0.1,959.59,2024,July
+ORD-1120,2023-07-31,East,Electronics,Headphones,3657.65,10,0.17,786.34,2023,July
+ORD-1121,2023-10-28,South,Home Decor,Vase,1791.11,9,0.23,258.46,2023,October
+ORD-1122,2023-09-01,East,Furniture,Table,2901.81,4,0.26,443.09,2023,September
+ORD-1123,2024-05-30,East,Home Decor,Vase,1991.79,3,0.15,118.02,2024,May
+ORD-1124,2025-02-04,Central,Clothing,Shirt,4383.53,8,0.03,1216.91,2025,February
+ORD-1125,2023-09-29,North,Furniture,Shelf,4367.57,3,0.02,1071.72,2023,September
+ORD-1126,2023-12-08,East,Clothing,Jacket,3284.2,6,0.26,869.77,2023,December
+ORD-1127,2024-09-01,West,Clothing,Jacket,4374.68,1,0.19,475.5,2024,September
+ORD-1128,2024-07-01,East,Furniture,Chair,2226.46,2,0.23,503.12,2024,July
+ORD-1129,2025-02-17,North,Home Decor,Clock,3500.61,1,0.01,871.78,2025,February
+ORD-1130,2025-02-17,East,Clothing,Shoes,2210.37,4,0.16,423.25,2025,February
+ORD-1131,2025-04-30,South,Furniture,Table,486.94,7,0.19,53.66,2025,April
+ORD-1132,2025-02-22,Central,Furniture,Table,2359.63,5,0.14,511.36,2025,February
+ORD-1133,2025-02-20,West,Clothing,Jeans,461.92,6,0.3,57.64,2025,February
+ORD-1134,2024-03-05,West,Clothing,Jacket,4241.99,4,0.3,1117.06,2024,March
+ORD-1135,2024-02-05,North,Furniture,Shelf,2902.42,10,0.09,652.52,2024,February
+ORD-1136,2024-05-13,North,Home Decor,Rug,139.68,1,0.27,33.01,2024,May
+ORD-1137,2024-08-14,East,Furniture,Couch,1173.12,4,0.19,257.43,2024,August
+ORD-1138,2024-03-27,South,Electronics,Mobile,1613.77,8,0.01,227.89,2024,March
+ORD-1139,2024-06-30,South,Electronics,Headphones,1700.92,7,0.05,141.24,2024,June
+ORD-1140,2025-02-27,Central,Clothing,Shoes,4169.32,5,0.27,1192.62,2025,February
+ORD-1141,2024-09-16,East,Clothing,Shirt,2394.82,2,0.04,698.39,2024,September
+ORD-1142,2024-05-04,West,Clothing,Shirt,3974.34,1,0.08,321.51,2024,May
+ORD-1143,2024-06-05,East,Clothing,Jacket,4129.84,6,0.03,447.9,2024,June
+ORD-1144,2023-11-10,North,Clothing,Jeans,3273.5,8,0.27,410.98,2023,November
+ORD-1145,2023-11-21,West,Electronics,Laptop,322.2,1,0.09,55.79,2023,November
+ORD-1146,2024-03-25,North,Furniture,Table,2004.36,6,0.2,472.6,2024,March
+ORD-1147,2024-04-25,Central,Home Decor,Clock,4438.53,2,0.25,905.07,2024,April
+ORD-1148,2024-04-20,East,Electronics,Headphones,1164.62,8,0.29,307.3,2024,April
+ORD-1149,2024-11-16,North,Clothing,Shoes,396.7,5,0.06,31.95,2024,November
+ORD-1150,2023-07-14,West,Electronics,Laptop,3244.35,10,0.29,203.24,2023,July
+ORD-1151,2024-03-05,East,Furniture,Table,3956.19,4,0.02,954.59,2024,March
+ORD-1152,2025-01-24,South,Furniture,Table,1709.94,3,0.24,340.27,2025,January
+ORD-1153,2023-09-06,East,Furniture,Table,2747.06,3,0.03,732.4,2023,September
+ORD-1154,2023-11-02,South,Electronics,Headphones,3970.92,4,0.18,214.21,2023,November
+ORD-1155,2024-04-03,East,Electronics,Laptop,3734.42,9,0.03,246.06,2024,April
+ORD-1156,2023-10-09,West,Clothing,Shirt,2314.83,4,0.28,140.84,2023,October
+ORD-1157,2023-07-30,Central,Clothing,Jacket,3252.37,1,0.02,552.08,2023,July
+ORD-1158,2023-12-05,West,Home Decor,Lamp,2502.32,8,0.02,175.66,2023,December
+ORD-1159,2025-05-15,Central,Furniture,Chair,718.34,10,0.19,134.39,2025,May
+ORD-1160,2023-11-03,East,Home Decor,Rug,2323.21,10,0.13,576.79,2023,November
+ORD-1161,2024-11-18,North,Furniture,Shelf,2312.62,4,0.12,594.01,2024,November
+ORD-1162,2024-09-09,West,Home Decor,Lamp,1631.49,6,0.2,234.24,2024,September
+ORD-1163,2024-02-26,South,Home Decor,Lamp,547.0,2,0.03,40.56,2024,February
+ORD-1164,2023-12-21,East,Furniture,Chair,2973.68,9,0.17,646.79,2023,December
+ORD-1165,2023-11-06,West,Clothing,Jacket,4353.65,1,0.29,871.18,2023,November
+ORD-1166,2024-09-04,East,Electronics,Laptop,858.18,8,0.07,66.13,2024,September
+ORD-1167,2025-05-06,Central,Clothing,Shirt,3836.77,10,0.07,603.44,2025,May
+ORD-1168,2023-09-29,Central,Electronics,Headphones,241.87,5,0.21,30.78,2023,September
+ORD-1169,2023-08-07,East,Clothing,Shirt,988.89,3,0.17,148.53,2023,August
+ORD-1170,2024-05-31,South,Electronics,Mobile,3755.95,4,0.11,613.77,2024,May
+ORD-1171,2023-12-17,South,Clothing,Shoes,3635.82,10,0.18,984.71,2023,December
+ORD-1172,2024-01-28,South,Furniture,Chair,3402.45,5,0.13,530.79,2024,January
+ORD-1173,2024-01-23,Central,Home Decor,Vase,1438.52,9,0.03,226.54,2024,January
+ORD-1174,2023-10-05,East,Home Decor,Rug,322.55,7,0.3,20.54,2023,October
+ORD-1175,2025-06-23,South,Clothing,Jeans,3860.01,5,0.09,308.79,2025,June
+ORD-1176,2023-07-06,West,Home Decor,Clock,733.01,9,0.21,128.32,2023,July
+ORD-1177,2024-05-02,East,Electronics,Camera,4322.65,1,0.13,712.97,2024,May
+ORD-1178,2024-06-29,North,Clothing,Jacket,2909.66,7,0.09,440.11,2024,June
+ORD-1179,2025-04-10,East,Furniture,Shelf,4176.93,6,0.03,1090.68,2025,April
+ORD-1180,2024-03-23,South,Home Decor,Vase,2667.42,7,0.26,630.71,2024,March
+ORD-1181,2024-05-07,South,Clothing,Jeans,474.26,2,0.16,46.7,2024,May
+ORD-1182,2023-07-13,East,Clothing,Jeans,1257.72,3,0.08,117.44,2023,July
+ORD-1183,2023-10-23,South,Electronics,Laptop,4761.33,8,0.14,909.1,2023,October
+ORD-1184,2023-08-04,Central,Home Decor,Rug,4334.81,6,0.05,290.74,2023,August
+ORD-1185,2024-07-13,West,Clothing,Shoes,2997.96,6,0.15,382.55,2024,July
+ORD-1186,2025-06-01,West,Electronics,Mobile,1906.81,5,0.02,507.33,2025,June
+ORD-1187,2025-06-05,North,Home Decor,Vase,2943.61,1,0.13,743.13,2025,June
+ORD-1188,2024-02-04,South,Clothing,Jacket,2556.7,1,0.14,646.18,2024,February
+ORD-1189,2023-07-19,East,Electronics,Laptop,291.8,8,0.3,52.82,2023,July
+ORD-1190,2025-06-15,Central,Furniture,Couch,1926.97,5,0.12,469.44,2025,June
+ORD-1191,2023-09-09,Central,Electronics,Headphones,422.97,2,0.17,62.02,2023,September
+ORD-1192,2024-04-07,East,Furniture,Couch,499.36,3,0.28,63.7,2024,April
+ORD-1193,2024-11-17,West,Furniture,Chair,1616.95,7,0.19,213.63,2024,November
+ORD-1194,2023-07-04,South,Electronics,Camera,2591.59,1,0.11,246.37,2023,July
+ORD-1195,2023-09-01,South,Clothing,Jacket,1040.83,3,0.05,129.01,2023,September
+ORD-1196,2024-11-29,North,Electronics,Headphones,4394.32,10,0.04,633.57,2024,November
+ORD-1197,2025-02-18,South,Furniture,Table,3633.8,1,0.12,796.13,2025,February
+ORD-1198,2024-03-28,South,Home Decor,Rug,3786.72,8,0.07,415.75,2024,March
+ORD-1199,2024-10-31,West,Furniture,Couch,3423.7,10,0.3,566.35,2024,October
+ORD-1200,2023-11-18,East,Home Decor,Vase,4834.71,4,0.24,409.01,2023,November
+ORD-1201,2024-07-01,East,Electronics,Camera,4383.17,9,0.28,998.71,2024,July
+ORD-1202,2023-08-08,Central,Electronics,Headphones,510.99,3,0.08,141.2,2023,August
+ORD-1203,2023-08-14,South,Home Decor,Lamp,4737.42,4,0.25,1284.59,2023,August
+ORD-1204,2025-02-01,North,Home Decor,Lamp,2042.62,6,0.07,609.99,2025,February
+ORD-1205,2024-02-04,East,Furniture,Chair,1661.56,2,0.25,353.07,2024,February
+ORD-1206,2025-02-13,South,Furniture,Chair,1505.71,8,0.21,127.53,2025,February
+ORD-1207,2024-02-24,West,Home Decor,Lamp,4538.7,1,0.08,1174.35,2024,February
+ORD-1208,2023-11-04,Central,Home Decor,Lamp,3903.25,4,0.09,241.76,2023,November
+ORD-1209,2024-07-12,West,Home Decor,Lamp,643.2,8,0.18,34.8,2024,July
+ORD-1210,2023-07-04,Central,Furniture,Table,1527.23,1,0.18,168.21,2023,July
+ORD-1211,2024-05-29,West,Furniture,Chair,2665.07,6,0.02,483.75,2024,May
+ORD-1212,2024-10-18,Central,Electronics,Camera,4379.32,1,0.19,1293.04,2024,October
+ORD-1213,2024-08-05,East,Electronics,Headphones,3963.75,6,0.07,849.34,2024,August
+ORD-1214,2024-05-23,North,Clothing,Jeans,317.24,9,0.1,66.84,2024,May
+ORD-1215,2024-08-28,West,Home Decor,Clock,4076.34,2,0.21,1165.43,2024,August
+ORD-1216,2025-03-23,North,Clothing,Jeans,314.65,4,0.27,40.56,2025,March
+ORD-1217,2024-07-25,East,Home Decor,Vase,1341.24,4,0.09,356.15,2024,July
+ORD-1218,2025-04-10,North,Clothing,Shoes,709.93,6,0.13,106.49,2025,April
+ORD-1219,2024-02-04,West,Home Decor,Rug,4871.25,8,0.21,690.92,2024,February
+ORD-1220,2024-09-17,Central,Clothing,Shirt,3662.7,2,0.13,1094.32,2024,September
+ORD-1221,2024-07-11,South,Clothing,Shoes,602.73,6,0.2,76.32,2024,July
+ORD-1222,2024-07-29,Central,Home Decor,Clock,3479.85,6,0.13,806.29,2024,July
+ORD-1223,2025-05-30,East,Home Decor,Rug,3233.4,1,0.02,677.0,2025,May
+ORD-1224,2024-01-07,East,Furniture,Chair,799.62,10,0.2,127.57,2024,January
+ORD-1225,2025-01-23,South,Electronics,Laptop,3914.73,6,0.11,1124.96,2025,January
+ORD-1226,2025-01-04,North,Furniture,Shelf,4749.24,6,0.13,328.75,2025,January
+ORD-1227,2025-03-26,South,Clothing,Jacket,1640.49,5,0.07,128.55,2025,March
+ORD-1228,2023-10-15,South,Home Decor,Vase,4576.36,2,0.08,526.61,2023,October
+ORD-1229,2023-10-18,West,Furniture,Couch,3500.51,8,0.06,293.81,2023,October
+ORD-1230,2025-04-15,North,Home Decor,Clock,4503.53,8,0.3,1137.72,2025,April
+ORD-1231,2024-04-19,East,Clothing,Shirt,2794.99,5,0.27,734.64,2024,April
+ORD-1232,2024-04-15,South,Clothing,Jeans,694.68,4,0.24,75.85,2024,April
+ORD-1233,2025-01-01,West,Electronics,Headphones,2814.71,6,0.14,832.46,2025,January
+ORD-1234,2023-08-11,South,Electronics,Mobile,1615.52,8,0.16,391.43,2023,August
+ORD-1235,2024-02-08,Central,Electronics,Laptop,4864.66,2,0.13,1070.36,2024,February
+ORD-1236,2025-03-31,East,Furniture,Table,3862.13,3,0.13,1072.43,2025,March
+ORD-1237,2025-01-01,North,Electronics,Laptop,1590.21,3,0.1,361.51,2025,January
+ORD-1238,2024-12-14,East,Clothing,Shirt,1327.97,9,0.08,273.9,2024,December
+ORD-1239,2023-08-03,Central,Electronics,Laptop,2999.86,10,0.05,644.02,2023,August
+ORD-1240,2025-02-20,Central,Clothing,Shirt,4143.66,1,0.02,1189.8,2025,February
+ORD-1241,2024-01-22,Central,Clothing,Jeans,3858.1,7,0.19,222.12,2024,January
+ORD-1242,2023-07-18,Central,Clothing,Shoes,2466.43,7,0.09,168.32,2023,July
+ORD-1243,2024-06-15,North,Furniture,Shelf,2136.55,8,0.06,430.87,2024,June
+ORD-1244,2023-11-22,East,Clothing,Shoes,4879.33,3,0.23,872.16,2023,November
+ORD-1245,2025-02-28,North,Clothing,Jeans,2385.72,5,0.13,203.31,2025,February
+ORD-1246,2024-07-19,North,Clothing,Jacket,4334.4,7,0.07,1154.37,2024,July
+ORD-1247,2025-05-15,South,Clothing,Shoes,1030.19,3,0.15,184.08,2025,May
+ORD-1248,2024-01-20,West,Clothing,Jacket,213.56,7,0.15,62.29,2024,January
+ORD-1249,2024-05-31,South,Clothing,Shirt,347.65,8,0.18,90.64,2024,May
+ORD-1250,2023-07-04,West,Clothing,Shirt,4251.14,7,0.04,493.63,2023,July
+ORD-1251,2023-09-13,East,Home Decor,Rug,321.69,1,0.17,31.74,2023,September
+ORD-1252,2023-07-08,Central,Clothing,Shirt,1993.11,8,0.23,239.03,2023,July
+ORD-1253,2025-02-03,Central,Electronics,Laptop,4877.91,7,0.11,1447.26,2025,February
+ORD-1254,2023-12-20,Central,Clothing,Jeans,1075.38,9,0.12,64.59,2023,December
+ORD-1255,2024-10-04,North,Furniture,Couch,4039.43,9,0.14,814.21,2024,October
+ORD-1256,2024-09-19,Central,Furniture,Couch,4663.71,6,0.05,1388.17,2024,September
+ORD-1257,2024-05-22,East,Clothing,Jacket,3572.83,5,0.14,193.5,2024,May
+ORD-1258,2025-05-08,East,Electronics,Camera,2960.14,1,0.18,344.51,2025,May
+ORD-1259,2023-12-17,Central,Furniture,Chair,2959.26,3,0.16,681.5,2023,December
+ORD-1260,2024-01-01,West,Furniture,Table,254.7,2,0.06,40.82,2024,January
+ORD-1261,2025-06-09,West,Furniture,Shelf,3483.45,7,0.15,706.69,2025,June
+ORD-1262,2025-05-07,West,Electronics,Laptop,2641.55,9,0.1,569.4,2025,May
+ORD-1263,2024-02-28,Central,Home Decor,Rug,4787.76,8,0.27,649.13,2024,February
+ORD-1264,2024-10-15,East,Clothing,Jacket,1042.09,4,0.08,129.87,2024,October
+ORD-1265,2023-07-09,East,Clothing,Jeans,3482.18,8,0.1,477.76,2023,July
+ORD-1266,2024-02-29,East,Clothing,Shirt,2910.04,9,0.11,858.58,2024,February
+ORD-1267,2023-09-25,East,Furniture,Couch,306.13,2,0.1,49.16,2023,September
+ORD-1268,2024-04-11,East,Home Decor,Clock,1090.13,9,0.08,207.67,2024,April
+ORD-1269,2023-06-29,East,Furniture,Chair,3116.82,10,0.07,195.4,2023,June
+ORD-1270,2023-07-26,Central,Furniture,Table,357.21,7,0.1,60.05,2023,July
+ORD-1271,2024-06-02,South,Electronics,Laptop,2093.85,8,0.14,209.1,2024,June
+ORD-1272,2024-01-09,East,Clothing,Shoes,3264.9,2,0.2,352.79,2024,January
+ORD-1273,2025-03-11,North,Furniture,Shelf,4423.0,3,0.28,261.33,2025,March
+ORD-1274,2024-06-07,West,Home Decor,Clock,4689.38,5,0.26,245.33,2024,June
+ORD-1275,2025-05-07,Central,Electronics,Headphones,1494.35,9,0.16,406.93,2025,May
+ORD-1276,2023-12-25,South,Home Decor,Rug,1044.78,2,0.1,243.2,2023,December
+ORD-1277,2023-11-04,East,Furniture,Chair,3709.43,5,0.17,887.74,2023,November
+ORD-1278,2024-02-11,South,Home Decor,Vase,2624.88,2,0.12,193.84,2024,February
+ORD-1279,2025-05-27,South,Home Decor,Rug,4685.54,1,0.08,510.16,2025,May
+ORD-1280,2024-04-03,East,Clothing,Shoes,2954.06,10,0.0,630.46,2024,April
+ORD-1281,2025-06-12,South,Electronics,Mobile,2380.44,3,0.12,418.08,2025,June
+ORD-1282,2023-12-25,East,Electronics,Headphones,1900.97,4,0.07,158.53,2023,December
+ORD-1283,2024-01-20,South,Home Decor,Rug,2137.64,9,0.27,511.62,2024,January
+ORD-1284,2023-09-07,South,Furniture,Chair,2674.98,9,0.21,185.98,2023,September
+ORD-1285,2023-08-22,Central,Electronics,Mobile,4160.99,9,0.06,766.31,2023,August
+ORD-1286,2023-07-10,South,Clothing,Jacket,669.58,4,0.22,115.31,2023,July
+ORD-1287,2023-10-21,Central,Home Decor,Lamp,2321.82,9,0.12,443.42,2023,October
+ORD-1288,2024-03-18,Central,Home Decor,Rug,3644.07,7,0.08,184.95,2024,March
+ORD-1289,2024-08-13,South,Electronics,Mobile,2176.12,2,0.16,141.59,2024,August
+ORD-1290,2025-06-22,North,Home Decor,Lamp,1506.74,3,0.23,363.81,2025,June
+ORD-1291,2025-02-15,West,Clothing,Jacket,2297.83,7,0.11,507.09,2025,February
+ORD-1292,2025-04-29,Central,Furniture,Couch,681.3,9,0.12,55.76,2025,April
+ORD-1293,2025-04-08,South,Electronics,Mobile,4894.6,8,0.2,910.94,2025,April
+ORD-1294,2023-11-07,Central,Home Decor,Clock,1312.81,6,0.05,127.5,2023,November
+ORD-1295,2024-03-30,North,Electronics,Camera,3113.12,1,0.07,208.03,2024,March
+ORD-1296,2024-11-06,Central,Electronics,Camera,3029.15,1,0.07,184.96,2024,November
+ORD-1297,2023-11-18,West,Furniture,Table,3796.49,1,0.04,1132.76,2023,November
+ORD-1298,2024-08-09,South,Clothing,Shoes,1260.83,3,0.3,227.34,2024,August
+ORD-1299,2023-12-27,West,Clothing,Shoes,398.69,10,0.26,110.79,2023,December
+ORD-1300,2025-04-02,West,Home Decor,Lamp,4864.22,7,0.24,630.81,2025,April
+ORD-1301,2023-12-15,West,Home Decor,Clock,1569.45,3,0.23,264.26,2023,December
+ORD-1302,2024-05-04,South,Clothing,Jeans,4048.3,1,0.17,1181.89,2024,May
+ORD-1303,2024-08-10,Central,Furniture,Shelf,1290.01,4,0.1,90.0,2024,August
+ORD-1304,2025-04-21,West,Clothing,Shirt,2724.61,4,0.02,393.14,2025,April
+ORD-1305,2024-11-18,Central,Electronics,Mobile,1022.0,10,0.22,193.89,2024,November
+ORD-1306,2025-06-08,West,Furniture,Couch,1585.62,1,0.06,154.61,2025,June
+ORD-1307,2024-04-13,North,Home Decor,Clock,3508.57,4,0.12,385.36,2024,April
+ORD-1308,2024-10-17,East,Clothing,Jacket,2384.63,6,0.09,333.64,2024,October
+ORD-1309,2025-03-27,West,Home Decor,Lamp,4033.8,8,0.23,524.63,2025,March
+ORD-1310,2024-08-08,South,Clothing,Shoes,2128.26,10,0.26,500.81,2024,August
+ORD-1311,2024-09-24,North,Clothing,Jacket,1546.44,4,0.1,224.17,2024,September
+ORD-1312,2024-04-05,South,Home Decor,Rug,1360.9,8,0.29,286.37,2024,April
+ORD-1313,2023-12-01,West,Home Decor,Clock,3690.58,6,0.05,849.12,2023,December
+ORD-1314,2024-06-08,West,Furniture,Chair,2667.33,2,0.28,578.95,2024,June
+ORD-1315,2025-01-30,North,Home Decor,Clock,4228.47,4,0.02,371.08,2025,January
+ORD-1316,2023-08-17,South,Home Decor,Rug,396.21,10,0.27,85.11,2023,August
+ORD-1317,2024-09-07,North,Electronics,Camera,158.07,9,0.22,29.07,2024,September
+ORD-1318,2024-09-23,East,Electronics,Camera,4050.22,3,0.03,300.03,2024,September
+ORD-1319,2023-07-10,South,Furniture,Table,3136.93,5,0.24,366.49,2023,July
+ORD-1320,2023-08-01,West,Electronics,Headphones,4800.56,8,0.17,1428.45,2023,August
+ORD-1321,2023-06-30,South,Clothing,Shirt,3303.31,1,0.03,478.37,2023,June
+ORD-1322,2025-05-26,Central,Home Decor,Lamp,3220.07,3,0.02,841.51,2025,May
+ORD-1323,2025-05-10,East,Electronics,Mobile,1225.86,10,0.14,75.56,2025,May
+ORD-1324,2024-05-08,North,Clothing,Shirt,978.84,6,0.0,99.64,2024,May
+ORD-1325,2024-05-09,South,Home Decor,Lamp,1566.46,10,0.07,405.18,2024,May
+ORD-1326,2024-11-14,West,Clothing,Jacket,3802.49,3,0.24,845.4,2024,November
+ORD-1327,2025-05-23,North,Clothing,Shirt,578.66,4,0.25,78.2,2025,May
+ORD-1328,2025-03-09,Central,Home Decor,Rug,245.17,5,0.24,39.87,2025,March
+ORD-1329,2024-08-14,South,Clothing,Jacket,2216.05,10,0.2,158.28,2024,August
+ORD-1330,2024-09-16,Central,Clothing,Jeans,3594.23,2,0.08,521.16,2024,September
+ORD-1331,2023-07-21,South,Home Decor,Rug,1867.43,2,0.0,237.29,2023,July
+ORD-1332,2024-12-03,East,Clothing,Shirt,749.28,3,0.13,141.8,2024,December
+ORD-1333,2023-12-24,Central,Home Decor,Lamp,228.68,6,0.17,45.56,2023,December
+ORD-1334,2023-08-20,East,Home Decor,Lamp,1530.05,7,0.23,353.76,2023,August
+ORD-1335,2024-09-11,Central,Furniture,Table,3458.05,3,0.04,433.23,2024,September
+ORD-1336,2024-10-31,West,Furniture,Chair,919.32,5,0.13,157.26,2024,October
+ORD-1337,2024-01-02,North,Clothing,Shoes,4726.69,8,0.18,467.41,2024,January
+ORD-1338,2023-08-08,North,Furniture,Couch,133.16,7,0.1,27.3,2023,August
+ORD-1339,2024-11-27,East,Home Decor,Rug,2210.02,10,0.04,287.67,2024,November
+ORD-1340,2024-09-05,South,Home Decor,Rug,970.42,7,0.29,119.23,2024,September
+ORD-1341,2025-04-06,West,Furniture,Couch,1942.67,7,0.11,549.81,2025,April
+ORD-1342,2024-11-18,South,Furniture,Chair,4769.72,8,0.28,488.48,2024,November
+ORD-1343,2023-12-26,East,Electronics,Camera,3397.59,3,0.19,375.45,2023,December
+ORD-1344,2023-08-28,South,Home Decor,Vase,462.43,10,0.14,69.46,2023,August
+ORD-1345,2024-08-06,Central,Home Decor,Lamp,3974.53,6,0.21,1005.85,2024,August
+ORD-1346,2024-11-02,Central,Electronics,Mobile,3867.87,6,0.05,785.83,2024,November
+ORD-1347,2024-02-16,Central,Home Decor,Rug,4832.01,7,0.03,360.72,2024,February
+ORD-1348,2023-12-12,South,Furniture,Shelf,1933.19,8,0.23,381.12,2023,December
+ORD-1349,2024-07-28,Central,Furniture,Couch,4988.74,8,0.03,768.24,2024,July
+ORD-1350,2025-01-08,North,Electronics,Laptop,1806.81,6,0.14,183.78,2025,January
+ORD-1351,2024-04-30,West,Clothing,Jacket,578.35,8,0.1,72.33,2024,April
+ORD-1352,2024-08-19,North,Electronics,Headphones,3275.05,3,0.28,770.04,2024,August
+ORD-1353,2024-06-15,Central,Furniture,Table,1721.85,7,0.29,185.9,2024,June
+ORD-1354,2024-04-09,West,Furniture,Table,3238.35,7,0.12,758.9,2024,April
+ORD-1355,2023-06-28,South,Home Decor,Vase,2005.3,4,0.06,477.42,2023,June
+ORD-1356,2024-12-02,North,Electronics,Laptop,1892.39,4,0.14,218.74,2024,December
+ORD-1357,2024-06-20,West,Clothing,Jacket,3095.41,10,0.03,427.15,2024,June
+ORD-1358,2023-10-26,West,Furniture,Couch,4601.54,10,0.03,384.17,2023,October
+ORD-1359,2024-09-02,North,Furniture,Couch,673.05,6,0.21,119.61,2024,September
+ORD-1360,2025-01-13,West,Furniture,Shelf,2172.89,8,0.19,485.33,2025,January
+ORD-1361,2024-06-08,South,Furniture,Shelf,1515.29,3,0.09,246.61,2024,June
+ORD-1362,2024-07-12,North,Clothing,Shirt,2474.58,4,0.24,720.0,2024,July
+ORD-1363,2024-10-13,Central,Home Decor,Vase,3455.01,7,0.21,556.13,2024,October
+ORD-1364,2024-04-14,South,Electronics,Mobile,3999.82,4,0.09,474.83,2024,April
+ORD-1365,2023-07-24,Central,Clothing,Jeans,3925.63,10,0.22,947.96,2023,July
+ORD-1366,2024-08-13,Central,Electronics,Mobile,1412.66,9,0.25,200.2,2024,August
+ORD-1367,2024-03-03,North,Home Decor,Clock,4949.9,2,0.22,1056.4,2024,March
+ORD-1368,2024-10-06,South,Clothing,Shirt,2303.69,6,0.26,165.28,2024,October
+ORD-1369,2023-12-26,North,Furniture,Table,4072.44,10,0.21,1080.26,2023,December
+ORD-1370,2025-03-20,Central,Home Decor,Clock,3119.14,4,0.24,784.03,2025,March
+ORD-1371,2023-07-10,Central,Clothing,Shoes,3024.6,3,0.1,683.6,2023,July
+ORD-1372,2025-04-02,East,Clothing,Shirt,764.39,7,0.28,227.88,2025,April
+ORD-1373,2024-12-12,South,Furniture,Table,816.59,6,0.25,196.28,2024,December
+ORD-1374,2024-03-17,West,Home Decor,Clock,2929.39,5,0.19,421.23,2024,March
+ORD-1375,2023-12-10,North,Electronics,Camera,2626.51,5,0.21,707.4,2023,December
+ORD-1376,2024-04-02,West,Home Decor,Rug,2951.58,2,0.22,485.87,2024,April
+ORD-1377,2024-01-08,East,Electronics,Camera,1167.37,7,0.25,202.75,2024,January
+ORD-1378,2024-11-22,East,Clothing,Shoes,2781.82,3,0.17,476.62,2024,November
+ORD-1379,2023-08-03,East,Electronics,Mobile,587.92,8,0.0,166.0,2023,August
+ORD-1380,2023-07-17,South,Home Decor,Vase,103.31,7,0.06,22.95,2023,July
+ORD-1381,2023-11-29,South,Clothing,Jeans,4384.67,5,0.03,614.33,2023,November
+ORD-1382,2023-06-29,North,Clothing,Jeans,353.76,5,0.22,84.48,2023,June
+ORD-1383,2023-09-30,West,Electronics,Mobile,105.32,8,0.02,20.9,2023,September
+ORD-1384,2024-05-04,Central,Home Decor,Lamp,139.51,6,0.25,41.44,2024,May
+ORD-1385,2023-08-24,West,Furniture,Shelf,447.06,7,0.03,112.43,2023,August
+ORD-1386,2024-07-31,North,Clothing,Shoes,4416.85,3,0.11,1118.97,2024,July
+ORD-1387,2023-09-18,South,Furniture,Chair,2699.49,1,0.18,245.73,2023,September
+ORD-1388,2024-10-04,East,Furniture,Table,4607.48,10,0.21,1220.94,2024,October
+ORD-1389,2023-11-18,North,Electronics,Laptop,3786.98,10,0.22,522.16,2023,November
+ORD-1390,2024-04-25,West,Clothing,Jeans,1314.15,2,0.07,263.16,2024,April
+ORD-1391,2024-12-15,Central,Clothing,Shirt,4254.67,5,0.06,858.3,2024,December
+ORD-1392,2024-02-15,South,Home Decor,Rug,3266.23,4,0.15,255.37,2024,February
+ORD-1393,2025-03-10,West,Electronics,Mobile,4935.72,6,0.04,1308.97,2025,March
+ORD-1394,2024-01-03,Central,Home Decor,Rug,2777.15,3,0.23,801.52,2024,January
+ORD-1395,2024-02-09,North,Electronics,Mobile,167.59,4,0.01,10.91,2024,February
+ORD-1396,2025-02-24,West,Clothing,Jacket,2175.52,7,0.02,400.6,2025,February
+ORD-1397,2024-03-19,Central,Furniture,Couch,509.63,2,0.15,51.37,2024,March
+ORD-1398,2025-02-02,South,Clothing,Jacket,2973.54,2,0.09,473.9,2025,February
+ORD-1399,2025-04-09,South,Electronics,Laptop,522.44,7,0.03,106.09,2025,April
+ORD-1400,2024-08-16,North,Clothing,Jeans,685.27,3,0.21,62.33,2024,August
+ORD-1401,2023-08-21,East,Clothing,Jeans,1922.16,5,0.22,152.84,2023,August
+ORD-1402,2024-03-25,North,Clothing,Jacket,1432.7,2,0.08,420.87,2024,March
+ORD-1403,2025-03-30,North,Home Decor,Vase,2602.83,1,0.15,499.02,2025,March
+ORD-1404,2023-10-27,East,Furniture,Couch,3889.31,10,0.2,306.61,2023,October
+ORD-1405,2023-07-27,Central,Electronics,Mobile,4307.58,1,0.07,723.42,2023,July
+ORD-1406,2024-07-17,West,Furniture,Table,4662.68,1,0.17,1298.5,2024,July
+ORD-1407,2023-12-26,West,Furniture,Couch,1316.49,6,0.08,91.46,2023,December
+ORD-1408,2024-08-03,East,Electronics,Mobile,978.79,9,0.29,282.4,2024,August
+ORD-1409,2023-11-17,North,Home Decor,Rug,3890.28,5,0.1,732.43,2023,November
+ORD-1410,2023-11-23,North,Clothing,Jeans,1528.82,5,0.22,169.16,2023,November
+ORD-1411,2024-05-26,East,Home Decor,Clock,3689.07,9,0.23,410.53,2024,May
+ORD-1412,2024-12-30,North,Home Decor,Lamp,1241.69,6,0.19,277.35,2024,December
+ORD-1413,2024-04-22,North,Clothing,Shirt,3818.75,7,0.25,885.2,2024,April
+ORD-1414,2025-01-17,North,Furniture,Table,2157.1,1,0.29,184.63,2025,January
+ORD-1415,2024-12-23,East,Electronics,Mobile,4614.24,9,0.12,1263.81,2024,December
+ORD-1416,2024-02-23,West,Electronics,Mobile,2576.6,7,0.02,494.59,2024,February
+ORD-1417,2024-11-07,West,Furniture,Table,1529.21,6,0.28,226.69,2024,November
+ORD-1418,2024-11-16,East,Clothing,Jacket,1432.58,2,0.28,120.38,2024,November
+ORD-1419,2023-07-24,Central,Electronics,Laptop,617.72,8,0.14,93.66,2023,July
+ORD-1420,2023-09-19,Central,Clothing,Jeans,2314.39,8,0.08,185.1,2023,September
+ORD-1421,2024-08-30,South,Clothing,Shirt,1153.6,6,0.04,262.78,2024,August
+ORD-1422,2024-01-16,East,Home Decor,Lamp,3418.2,5,0.25,319.49,2024,January
+ORD-1423,2024-10-16,West,Home Decor,Clock,564.15,2,0.24,47.92,2024,October
+ORD-1424,2024-11-15,North,Electronics,Laptop,740.5,7,0.11,153.71,2024,November
+ORD-1425,2024-11-15,North,Clothing,Shirt,206.82,2,0.06,43.74,2024,November
+ORD-1426,2024-11-19,South,Electronics,Headphones,700.39,8,0.02,196.83,2024,November
+ORD-1427,2024-07-10,West,Home Decor,Vase,244.46,7,0.05,25.35,2024,July
+ORD-1428,2024-07-09,South,Clothing,Shoes,2285.46,3,0.01,468.05,2024,July
+ORD-1429,2025-02-12,South,Clothing,Jacket,2118.76,9,0.14,152.4,2025,February
+ORD-1430,2023-12-25,West,Furniture,Shelf,1077.34,9,0.07,321.61,2023,December
+ORD-1431,2024-06-30,Central,Electronics,Camera,3931.39,6,0.14,964.6,2024,June
+ORD-1432,2024-12-14,East,Clothing,Jacket,1425.13,1,0.1,149.29,2024,December
+ORD-1433,2023-07-03,East,Electronics,Camera,2694.22,10,0.3,790.74,2023,July
+ORD-1434,2025-04-13,North,Furniture,Table,1405.98,1,0.23,403.45,2025,April
+ORD-1435,2024-09-22,Central,Home Decor,Rug,4682.51,3,0.05,927.75,2024,September
+ORD-1436,2024-01-18,East,Electronics,Headphones,4743.04,10,0.04,1361.69,2024,January
+ORD-1437,2025-05-26,West,Clothing,Jeans,2503.14,2,0.02,501.67,2025,May
+ORD-1438,2023-07-29,North,Home Decor,Lamp,1725.5,10,0.06,142.56,2023,July
+ORD-1439,2024-11-01,South,Clothing,Shirt,207.37,10,0.21,17.71,2024,November
+ORD-1440,2024-11-09,North,Clothing,Shirt,1930.59,7,0.18,258.97,2024,November
+ORD-1441,2024-01-16,East,Furniture,Table,3688.52,7,0.24,1070.28,2024,January
+ORD-1442,2024-08-12,East,Furniture,Couch,1193.86,10,0.24,172.63,2024,August
+ORD-1443,2025-02-24,East,Furniture,Table,3671.27,10,0.12,1096.13,2025,February
+ORD-1444,2024-05-30,Central,Electronics,Laptop,3051.7,10,0.07,584.06,2024,May
+ORD-1445,2024-04-14,West,Furniture,Couch,3752.18,4,0.1,487.33,2024,April
+ORD-1446,2024-08-07,North,Clothing,Jacket,155.84,4,0.07,10.43,2024,August
+ORD-1447,2024-12-15,East,Electronics,Mobile,335.92,8,0.22,98.18,2024,December
+ORD-1448,2024-04-29,West,Home Decor,Vase,1821.03,7,0.03,309.34,2024,April
+ORD-1449,2025-03-15,Central,Furniture,Table,2311.31,1,0.09,299.73,2025,March
+ORD-1450,2024-01-13,North,Electronics,Headphones,933.52,7,0.05,64.18,2024,January
+ORD-1451,2023-07-19,North,Clothing,Jacket,3552.07,7,0.28,324.12,2023,July
+ORD-1452,2023-08-01,West,Furniture,Chair,596.16,4,0.29,90.81,2023,August
+ORD-1453,2023-12-14,Central,Clothing,Shoes,1557.26,2,0.01,300.46,2023,December
+ORD-1454,2024-08-11,West,Furniture,Chair,1868.06,7,0.03,478.18,2024,August
+ORD-1455,2024-07-24,Central,Home Decor,Clock,575.24,4,0.05,70.73,2024,July
+ORD-1456,2023-11-11,North,Home Decor,Lamp,1610.93,7,0.14,440.94,2023,November
+ORD-1457,2023-08-25,East,Electronics,Camera,1005.92,7,0.11,162.4,2023,August
+ORD-1458,2024-04-02,East,Home Decor,Vase,1390.66,5,0.17,122.08,2024,April
+ORD-1459,2024-04-27,North,Electronics,Headphones,4060.08,7,0.29,801.59,2024,April
+ORD-1460,2024-08-14,Central,Electronics,Camera,4110.19,7,0.29,911.5,2024,August
+ORD-1461,2024-02-26,West,Furniture,Shelf,1564.38,7,0.27,357.58,2024,February
+ORD-1462,2023-11-30,Central,Furniture,Chair,4751.35,8,0.05,1406.84,2023,November
+ORD-1463,2024-08-08,South,Furniture,Table,309.11,2,0.3,49.1,2024,August
+ORD-1464,2024-01-04,South,Clothing,Shoes,4562.94,2,0.03,862.81,2024,January
+ORD-1465,2023-11-13,Central,Clothing,Shoes,2646.47,1,0.24,544.55,2023,November
+ORD-1466,2024-10-21,Central,Home Decor,Lamp,2130.77,3,0.17,416.93,2024,October
+ORD-1467,2025-04-07,North,Electronics,Mobile,3950.15,9,0.26,1064.46,2025,April
+ORD-1468,2025-06-22,East,Home Decor,Vase,2902.91,8,0.01,345.02,2025,June
+ORD-1469,2025-04-15,South,Home Decor,Lamp,2039.38,6,0.21,127.1,2025,April
+ORD-1470,2024-07-17,West,Clothing,Shoes,199.14,5,0.09,51.92,2024,July
+ORD-1471,2025-06-17,North,Furniture,Table,1572.35,8,0.23,204.75,2025,June
+ORD-1472,2024-06-28,West,Electronics,Laptop,2264.41,7,0.22,543.17,2024,June
+ORD-1473,2024-03-05,East,Electronics,Laptop,421.52,9,0.12,103.33,2024,March
+ORD-1474,2024-12-18,Central,Electronics,Laptop,1044.54,4,0.25,117.38,2024,December
+ORD-1475,2025-03-19,West,Electronics,Headphones,3552.71,5,0.11,589.94,2025,March
+ORD-1476,2025-03-24,West,Electronics,Mobile,1285.5,8,0.18,121.35,2025,March
+ORD-1477,2024-10-09,West,Clothing,Shoes,901.22,5,0.22,200.26,2024,October
+ORD-1478,2024-05-13,East,Electronics,Camera,343.29,10,0.23,35.56,2024,May
+ORD-1479,2024-12-29,South,Furniture,Table,1418.51,7,0.15,377.55,2024,December
+ORD-1480,2025-04-14,North,Home Decor,Clock,3272.12,10,0.24,346.66,2025,April
+ORD-1481,2025-06-19,Central,Clothing,Shoes,2176.65,7,0.26,358.6,2025,June
+ORD-1482,2025-05-28,South,Home Decor,Rug,3418.26,10,0.12,258.35,2025,May
+ORD-1483,2023-07-27,Central,Clothing,Shoes,1562.53,2,0.14,209.49,2023,July
+ORD-1484,2023-11-15,East,Clothing,Shoes,1379.62,5,0.06,247.4,2023,November
+ORD-1485,2023-08-08,South,Electronics,Camera,3336.6,3,0.22,713.53,2023,August
+ORD-1486,2024-04-26,East,Clothing,Jacket,2082.53,1,0.17,622.03,2024,April
+ORD-1487,2025-03-18,South,Clothing,Jeans,3462.96,8,0.27,754.81,2025,March
+ORD-1488,2024-04-24,Central,Clothing,Jeans,4219.13,9,0.05,313.91,2024,April
+ORD-1489,2023-09-03,South,Clothing,Jeans,4739.92,6,0.2,500.36,2023,September
+ORD-1490,2023-07-16,South,Clothing,Jacket,3961.64,6,0.11,778.04,2023,July
+ORD-1491,2024-06-27,West,Electronics,Camera,363.02,10,0.17,74.48,2024,June
+ORD-1492,2023-11-02,West,Furniture,Chair,4350.74,7,0.16,666.87,2023,November
+ORD-1493,2023-10-25,South,Furniture,Table,1779.08,10,0.27,527.79,2023,October
+ORD-1494,2023-10-09,South,Clothing,Jeans,3916.81,8,0.1,1161.96,2023,October
+ORD-1495,2023-10-08,East,Electronics,Mobile,2315.06,4,0.23,213.34,2023,October
+ORD-1496,2025-05-07,South,Home Decor,Lamp,734.09,7,0.19,110.74,2025,May
+ORD-1497,2025-02-01,West,Home Decor,Lamp,284.85,4,0.22,81.9,2025,February
+ORD-1498,2024-01-05,East,Furniture,Chair,3416.07,4,0.07,919.76,2024,January
+ORD-1499,2023-06-28,East,Furniture,Chair,1979.4,10,0.09,131.28,2023,June
+ORD-1500,2024-09-10,North,Clothing,Shoes,2334.04,9,0.18,313.83,2024,September
+ORD-1501,2024-03-10,South,Clothing,Jacket,1860.33,4,0.05,514.8,2024,March
+ORD-1502,2024-02-14,West,Electronics,Laptop,1199.17,3,0.06,66.53,2024,February
+ORD-1503,2025-02-12,Central,Furniture,Chair,1896.3,1,0.11,398.38,2025,February
+ORD-1504,2024-09-10,Central,Electronics,Mobile,3343.65,1,0.01,263.97,2024,September
+ORD-1505,2023-11-03,West,Home Decor,Lamp,2781.68,8,0.21,281.99,2023,November
+ORD-1506,2023-10-23,North,Clothing,Jacket,3342.16,9,0.08,673.14,2023,October
+ORD-1507,2025-02-24,South,Home Decor,Lamp,2606.77,10,0.04,204.64,2025,February
+ORD-1508,2024-09-30,North,Home Decor,Clock,3084.11,5,0.25,904.51,2024,September
+ORD-1509,2024-07-30,East,Home Decor,Rug,885.83,9,0.15,90.29,2024,July
+ORD-1510,2024-12-06,West,Clothing,Jeans,113.42,2,0.27,29.35,2024,December
+ORD-1511,2025-04-17,West,Furniture,Chair,3919.68,2,0.22,295.24,2025,April
+ORD-1512,2024-10-30,East,Furniture,Shelf,4944.46,5,0.08,309.13,2024,October
+ORD-1513,2024-07-06,South,Electronics,Headphones,1865.05,6,0.13,147.29,2024,July
+ORD-1514,2024-12-01,North,Electronics,Laptop,3350.44,3,0.1,916.79,2024,December
+ORD-1515,2024-12-02,Central,Clothing,Shirt,1925.85,6,0.05,289.25,2024,December
+ORD-1516,2023-12-06,West,Clothing,Jacket,3480.52,8,0.24,738.61,2023,December
+ORD-1517,2024-01-18,South,Electronics,Laptop,3511.23,1,0.29,916.74,2024,January
+ORD-1518,2023-11-16,North,Home Decor,Vase,4031.1,8,0.05,584.26,2023,November
+ORD-1519,2025-05-06,East,Electronics,Laptop,2467.09,8,0.03,377.02,2025,May
+ORD-1520,2025-04-08,North,Electronics,Headphones,3309.37,1,0.21,726.35,2025,April
+ORD-1521,2024-07-06,Central,Furniture,Couch,2643.59,10,0.03,569.5,2024,July
+ORD-1522,2023-10-16,South,Home Decor,Rug,3352.18,7,0.04,860.2,2023,October
+ORD-1523,2023-09-13,Central,Electronics,Mobile,3252.65,3,0.15,544.24,2023,September
+ORD-1524,2025-06-14,West,Furniture,Chair,3782.01,6,0.07,1106.38,2025,June
+ORD-1525,2023-09-17,North,Furniture,Shelf,2076.06,4,0.02,334.34,2023,September
+ORD-1526,2024-08-11,Central,Home Decor,Lamp,4297.29,8,0.09,1268.42,2024,August
+ORD-1527,2024-01-05,North,Electronics,Camera,2120.46,9,0.16,543.85,2024,January
+ORD-1528,2023-08-31,Central,Clothing,Jeans,3307.52,8,0.29,465.82,2023,August
+ORD-1529,2025-04-20,North,Furniture,Shelf,1726.67,10,0.18,395.69,2025,April
+ORD-1530,2023-09-01,East,Home Decor,Lamp,577.44,4,0.0,80.14,2023,September
+ORD-1531,2024-04-10,East,Clothing,Shirt,324.31,3,0.15,82.85,2024,April
+ORD-1532,2025-01-19,West,Electronics,Headphones,3093.17,4,0.04,813.65,2025,January
+ORD-1533,2023-09-05,South,Home Decor,Clock,3612.26,2,0.23,222.61,2023,September
+ORD-1534,2025-01-10,Central,Electronics,Camera,2341.2,10,0.29,195.86,2025,January
+ORD-1535,2024-05-04,West,Electronics,Mobile,2810.81,7,0.25,479.9,2024,May
+ORD-1536,2023-10-26,Central,Furniture,Table,3679.42,3,0.03,788.8,2023,October
+ORD-1537,2023-08-16,Central,Clothing,Jacket,2151.46,10,0.27,517.63,2023,August
+ORD-1538,2024-02-22,East,Home Decor,Rug,4855.41,8,0.24,410.5,2024,February
+ORD-1539,2025-05-22,Central,Clothing,Shoes,3588.18,9,0.19,359.62,2025,May
+ORD-1540,2025-02-22,Central,Clothing,Shoes,4613.84,3,0.29,980.54,2025,February
+ORD-1541,2023-12-10,South,Clothing,Shirt,3827.8,9,0.14,737.46,2023,December
+ORD-1542,2023-07-24,West,Clothing,Jacket,4060.69,9,0.03,589.68,2023,July
+ORD-1543,2025-02-16,North,Electronics,Laptop,1408.19,3,0.3,311.0,2025,February
+ORD-1544,2023-10-28,South,Electronics,Headphones,1099.6,9,0.01,278.76,2023,October
+ORD-1545,2024-11-25,North,Furniture,Shelf,1264.22,5,0.21,78.06,2024,November
+ORD-1546,2024-07-23,West,Home Decor,Vase,4787.84,6,0.29,303.79,2024,July
+ORD-1547,2025-02-28,East,Furniture,Shelf,4166.92,6,0.23,777.77,2025,February
+ORD-1548,2025-01-04,Central,Furniture,Table,1541.47,3,0.3,105.77,2025,January
+ORD-1549,2023-12-15,South,Electronics,Camera,299.11,5,0.17,24.68,2023,December
+ORD-1550,2024-03-22,Central,Clothing,Shirt,1719.76,3,0.01,485.24,2024,March
+ORD-1551,2024-12-11,Central,Electronics,Headphones,2503.7,10,0.17,170.8,2024,December
+ORD-1552,2024-08-05,East,Furniture,Table,2650.97,9,0.05,492.47,2024,August
+ORD-1553,2023-11-01,West,Electronics,Headphones,1183.87,4,0.2,157.18,2023,November
+ORD-1554,2024-11-10,East,Furniture,Shelf,4983.49,1,0.03,680.26,2024,November
+ORD-1555,2023-09-17,South,Furniture,Chair,3444.5,6,0.11,857.86,2023,September
+ORD-1556,2024-10-06,North,Home Decor,Rug,2747.16,5,0.01,492.34,2024,October
+ORD-1557,2025-02-17,East,Home Decor,Vase,314.87,4,0.1,22.23,2025,February
+ORD-1558,2023-08-08,North,Furniture,Chair,3171.97,4,0.2,772.04,2023,August
+ORD-1559,2024-02-18,West,Electronics,Laptop,2735.0,7,0.19,779.3,2024,February
+ORD-1560,2023-09-27,South,Electronics,Camera,3612.65,1,0.03,229.65,2023,September
+ORD-1561,2024-01-07,East,Electronics,Laptop,4563.83,7,0.12,947.24,2024,January
+ORD-1562,2023-12-25,West,Clothing,Shirt,2008.56,2,0.16,422.51,2023,December
+ORD-1563,2024-09-12,Central,Electronics,Mobile,3534.32,2,0.11,621.01,2024,September
+ORD-1564,2025-02-25,East,Clothing,Shirt,1479.44,8,0.11,378.04,2025,February
+ORD-1565,2023-12-05,North,Home Decor,Clock,2713.99,3,0.22,676.31,2023,December
+ORD-1566,2024-10-17,Central,Clothing,Jeans,1560.48,6,0.29,82.37,2024,October
+ORD-1567,2024-04-20,Central,Furniture,Chair,304.69,10,0.18,56.15,2024,April
+ORD-1568,2024-06-01,North,Clothing,Jeans,3766.65,6,0.06,1041.13,2024,June
+ORD-1569,2025-06-07,Central,Furniture,Table,1001.56,10,0.25,98.74,2025,June
+ORD-1570,2024-11-01,South,Electronics,Camera,3258.91,2,0.09,217.83,2024,November
+ORD-1571,2024-03-11,North,Furniture,Shelf,4762.55,6,0.04,1018.56,2024,March
+ORD-1572,2025-05-05,North,Clothing,Shirt,4510.58,6,0.15,595.79,2025,May
+ORD-1573,2024-01-30,East,Furniture,Couch,4057.73,7,0.05,520.62,2024,January
+ORD-1574,2024-01-15,South,Home Decor,Rug,4216.54,3,0.2,560.34,2024,January
+ORD-1575,2023-12-01,West,Home Decor,Vase,1857.83,5,0.15,143.44,2023,December
+ORD-1576,2025-05-12,Central,Electronics,Headphones,4307.7,3,0.27,426.93,2025,May
+ORD-1577,2024-04-05,North,Electronics,Mobile,4262.98,1,0.24,830.11,2024,April
+ORD-1578,2023-08-15,Central,Furniture,Chair,2802.81,9,0.27,518.29,2023,August
+ORD-1579,2023-07-22,South,Clothing,Jacket,1194.2,10,0.22,146.59,2023,July
+ORD-1580,2024-12-08,West,Electronics,Camera,1882.94,1,0.2,493.32,2024,December
+ORD-1581,2024-08-21,Central,Furniture,Table,2286.48,3,0.17,437.75,2024,August
+ORD-1582,2024-10-27,South,Home Decor,Rug,298.06,8,0.07,34.6,2024,October
+ORD-1583,2023-10-06,South,Electronics,Laptop,2637.64,6,0.12,737.16,2023,October
+ORD-1584,2023-10-04,North,Electronics,Headphones,605.8,9,0.19,71.71,2023,October
+ORD-1585,2024-04-13,East,Furniture,Shelf,3303.01,6,0.18,906.86,2024,April
+ORD-1586,2024-08-16,North,Clothing,Jacket,4866.1,4,0.15,672.61,2024,August
+ORD-1587,2024-02-13,East,Home Decor,Vase,4447.14,1,0.15,376.86,2024,February
+ORD-1588,2023-10-30,South,Furniture,Chair,2621.25,5,0.06,253.54,2023,October
+ORD-1589,2025-06-25,East,Electronics,Laptop,2131.61,6,0.22,363.18,2025,June
+ORD-1590,2025-03-05,West,Home Decor,Clock,2994.88,7,0.01,182.05,2025,March
+ORD-1591,2024-12-28,Central,Furniture,Table,3184.75,1,0.27,276.17,2024,December
+ORD-1592,2024-07-18,South,Clothing,Jeans,2631.54,7,0.18,502.36,2024,July
+ORD-1593,2023-11-27,North,Clothing,Shirt,1161.31,10,0.3,309.87,2023,November
+ORD-1594,2023-08-27,South,Furniture,Shelf,3044.11,10,0.25,290.62,2023,August
+ORD-1595,2024-12-17,Central,Clothing,Jeans,3648.52,6,0.28,726.54,2024,December
+ORD-1596,2025-06-08,North,Furniture,Shelf,1988.76,2,0.0,359.32,2025,June
+ORD-1597,2025-06-20,Central,Home Decor,Clock,3067.0,3,0.14,624.71,2025,June
+ORD-1598,2025-02-27,North,Electronics,Mobile,2462.98,3,0.27,455.21,2025,February
+ORD-1599,2023-09-21,North,Home Decor,Vase,1914.85,1,0.21,301.09,2023,September
+ORD-1600,2024-03-02,West,Home Decor,Rug,2986.34,10,0.03,249.27,2024,March
+ORD-1601,2024-11-22,West,Furniture,Chair,1488.01,9,0.12,144.72,2024,November
+ORD-1602,2025-01-14,North,Electronics,Mobile,1937.65,4,0.21,249.91,2025,January
+ORD-1603,2025-03-12,East,Electronics,Laptop,2187.75,10,0.08,577.01,2025,March
+ORD-1604,2023-12-21,West,Clothing,Shoes,4959.81,7,0.23,760.37,2023,December
+ORD-1605,2024-05-29,Central,Home Decor,Clock,1914.04,9,0.15,568.71,2024,May
+ORD-1606,2024-07-30,Central,Clothing,Jacket,3705.33,2,0.22,598.96,2024,July
+ORD-1607,2024-02-07,South,Electronics,Laptop,2590.88,6,0.24,527.26,2024,February
+ORD-1608,2024-04-17,North,Furniture,Shelf,4826.39,1,0.24,1234.66,2024,April
+ORD-1609,2024-02-15,West,Home Decor,Lamp,413.99,4,0.11,83.73,2024,February
+ORD-1610,2025-02-15,West,Home Decor,Rug,3586.87,10,0.02,873.05,2025,February
+ORD-1611,2024-05-01,South,Home Decor,Vase,152.48,9,0.09,8.91,2024,May
+ORD-1612,2023-07-13,Central,Furniture,Table,3402.72,6,0.07,170.38,2023,July
+ORD-1613,2024-11-28,South,Electronics,Headphones,3920.4,6,0.2,593.4,2024,November
+ORD-1614,2024-09-29,South,Electronics,Mobile,4603.97,9,0.09,1185.25,2024,September
+ORD-1615,2025-03-01,Central,Clothing,Shoes,4820.11,5,0.07,1401.52,2025,March
+ORD-1616,2023-09-01,West,Home Decor,Lamp,1379.43,7,0.15,261.62,2023,September
+ORD-1617,2024-01-27,Central,Clothing,Shoes,4740.38,9,0.29,1275.3,2024,January
+ORD-1618,2023-07-22,Central,Clothing,Jacket,4833.67,10,0.15,535.66,2023,July
+ORD-1619,2023-09-20,East,Home Decor,Vase,4492.97,1,0.14,514.24,2023,September
+ORD-1620,2024-12-03,West,Furniture,Table,4020.79,7,0.29,720.23,2024,December
+ORD-1621,2024-09-07,North,Clothing,Jeans,1507.72,7,0.2,384.87,2024,September
+ORD-1622,2024-07-19,North,Furniture,Shelf,1637.98,4,0.27,192.08,2024,July
+ORD-1623,2023-08-15,South,Home Decor,Clock,1250.82,4,0.26,127.2,2023,August
+ORD-1624,2025-01-02,South,Furniture,Couch,864.38,2,0.04,60.18,2025,January
+ORD-1625,2025-04-04,West,Electronics,Mobile,4255.25,6,0.19,736.52,2025,April
+ORD-1626,2024-11-08,Central,Clothing,Jacket,996.07,9,0.08,105.11,2024,November
+ORD-1627,2023-12-09,Central,Furniture,Chair,2676.1,7,0.14,495.59,2023,December
+ORD-1628,2023-10-26,Central,Clothing,Jacket,4315.96,3,0.14,345.67,2023,October
+ORD-1629,2024-08-13,Central,Home Decor,Rug,3477.13,1,0.2,503.69,2024,August
+ORD-1630,2023-08-26,North,Clothing,Shoes,3102.61,5,0.06,359.01,2023,August
+ORD-1631,2024-08-28,East,Home Decor,Rug,1893.03,8,0.13,292.99,2024,August
+ORD-1632,2024-01-10,East,Clothing,Jacket,1470.18,3,0.17,433.44,2024,January
+ORD-1633,2024-08-03,South,Electronics,Headphones,4040.03,9,0.13,586.7,2024,August
+ORD-1634,2024-08-18,South,Furniture,Shelf,4047.77,3,0.13,338.47,2024,August
+ORD-1635,2024-03-29,Central,Clothing,Jacket,1570.17,9,0.26,97.24,2024,March
+ORD-1636,2024-09-03,North,Furniture,Chair,1155.79,5,0.14,239.79,2024,September
+ORD-1637,2024-03-04,West,Clothing,Shoes,1868.71,9,0.17,471.86,2024,March
+ORD-1638,2025-04-03,East,Electronics,Camera,694.06,10,0.06,134.63,2025,April
+ORD-1639,2024-10-27,Central,Furniture,Couch,1840.03,9,0.15,430.81,2024,October
+ORD-1640,2024-01-19,North,Home Decor,Rug,2372.39,3,0.26,498.55,2024,January
+ORD-1641,2025-03-10,East,Home Decor,Vase,4259.61,2,0.02,578.91,2025,March
+ORD-1642,2023-11-08,East,Clothing,Shoes,3581.12,10,0.19,421.9,2023,November
+ORD-1643,2025-04-14,West,Clothing,Jacket,2128.55,3,0.26,172.97,2025,April
+ORD-1644,2023-06-27,South,Clothing,Shirt,1131.8,7,0.03,74.64,2023,June
+ORD-1645,2024-03-15,West,Electronics,Mobile,3877.58,9,0.23,274.58,2024,March
+ORD-1646,2024-04-19,East,Furniture,Chair,3308.68,7,0.09,370.07,2024,April
+ORD-1647,2024-06-22,East,Home Decor,Clock,743.26,3,0.01,160.46,2024,June
+ORD-1648,2024-11-03,East,Home Decor,Vase,4877.41,9,0.28,912.74,2024,November
+ORD-1649,2025-03-29,South,Furniture,Shelf,3192.13,10,0.13,670.18,2025,March
+ORD-1650,2024-05-11,Central,Clothing,Shoes,2460.09,4,0.24,394.76,2024,May
+ORD-1651,2024-03-13,East,Home Decor,Rug,863.02,1,0.0,219.07,2024,March
+ORD-1652,2023-10-21,South,Clothing,Shoes,2399.07,1,0.21,415.0,2023,October
+ORD-1653,2024-08-16,West,Clothing,Shirt,3852.76,5,0.18,960.08,2024,August
+ORD-1654,2024-01-19,Central,Clothing,Jeans,2117.51,9,0.13,238.16,2024,January
+ORD-1655,2024-06-11,West,Home Decor,Clock,1388.6,7,0.19,248.77,2024,June
+ORD-1656,2024-03-20,Central,Clothing,Shoes,3277.44,9,0.24,502.19,2024,March
+ORD-1657,2025-06-15,North,Furniture,Table,1519.02,8,0.19,179.3,2025,June
+ORD-1658,2025-04-06,Central,Home Decor,Clock,1671.15,3,0.01,307.06,2025,April
+ORD-1659,2025-06-14,South,Electronics,Headphones,1419.06,8,0.22,153.55,2025,June
+ORD-1660,2023-07-13,South,Electronics,Camera,1164.22,7,0.09,290.9,2023,July
+ORD-1661,2024-06-02,East,Home Decor,Lamp,1718.22,3,0.02,419.1,2024,June
+ORD-1662,2024-10-05,North,Home Decor,Clock,1041.74,5,0.25,267.79,2024,October
+ORD-1663,2025-02-25,North,Furniture,Shelf,3879.0,8,0.07,1158.4,2025,February
+ORD-1664,2023-11-03,South,Home Decor,Lamp,2653.58,4,0.14,584.74,2023,November
+ORD-1665,2024-10-03,East,Clothing,Jeans,3182.9,1,0.22,596.46,2024,October
+ORD-1666,2023-09-23,North,Clothing,Jacket,3228.75,4,0.11,203.48,2023,September
+ORD-1667,2024-07-04,South,Electronics,Laptop,3201.25,6,0.0,795.82,2024,July
+ORD-1668,2024-07-24,Central,Electronics,Camera,3966.8,1,0.29,774.59,2024,July
+ORD-1669,2024-05-10,West,Furniture,Couch,3876.91,4,0.05,282.43,2024,May
+ORD-1670,2024-08-07,Central,Clothing,Shirt,392.9,3,0.21,97.39,2024,August
+ORD-1671,2024-12-15,South,Home Decor,Clock,1652.02,9,0.24,395.12,2024,December
+ORD-1672,2024-05-07,West,Furniture,Chair,3477.32,6,0.22,391.8,2024,May
+ORD-1673,2023-12-22,North,Home Decor,Vase,2839.22,9,0.21,276.66,2023,December
+ORD-1674,2024-01-18,South,Clothing,Shoes,3688.77,5,0.26,736.54,2024,January
+ORD-1675,2025-06-11,Central,Furniture,Chair,2702.57,8,0.09,313.06,2025,June
+ORD-1676,2024-02-03,East,Home Decor,Lamp,3902.0,9,0.11,376.09,2024,February
+ORD-1677,2024-04-27,North,Clothing,Jeans,1671.4,2,0.2,308.77,2024,April
+ORD-1678,2023-07-02,West,Furniture,Shelf,3852.1,3,0.18,503.28,2023,July
+ORD-1679,2023-08-17,East,Electronics,Mobile,2663.68,2,0.01,757.68,2023,August
+ORD-1680,2024-02-23,South,Electronics,Laptop,624.57,4,0.03,120.39,2024,February
+ORD-1681,2025-05-08,West,Home Decor,Rug,340.52,4,0.18,23.06,2025,May
+ORD-1682,2023-10-18,South,Home Decor,Lamp,2393.49,1,0.11,564.55,2023,October
+ORD-1683,2023-08-03,West,Clothing,Shirt,4135.85,5,0.16,966.03,2023,August
+ORD-1684,2025-02-02,East,Electronics,Laptop,4806.88,2,0.03,517.96,2025,February
+ORD-1685,2024-03-11,West,Furniture,Table,2678.34,4,0.17,768.35,2024,March
+ORD-1686,2024-06-04,Central,Home Decor,Lamp,3854.79,10,0.11,634.81,2024,June
+ORD-1687,2024-08-24,West,Electronics,Laptop,3983.06,9,0.12,535.24,2024,August
+ORD-1688,2024-07-26,South,Home Decor,Rug,4522.18,9,0.3,593.15,2024,July
+ORD-1689,2023-08-20,East,Home Decor,Vase,4148.16,6,0.18,791.41,2023,August
+ORD-1690,2024-10-01,South,Home Decor,Rug,1864.04,8,0.13,278.25,2024,October
+ORD-1691,2024-11-19,North,Clothing,Shirt,2636.29,5,0.0,780.6,2024,November
+ORD-1692,2023-09-25,South,Clothing,Shirt,3880.46,5,0.28,690.02,2023,September
+ORD-1693,2024-07-01,Central,Furniture,Chair,284.91,6,0.05,33.12,2024,July
+ORD-1694,2025-04-29,Central,Furniture,Table,1355.59,5,0.03,203.27,2025,April
+ORD-1695,2025-03-07,South,Electronics,Headphones,3985.23,3,0.15,1094.97,2025,March
+ORD-1696,2025-02-22,Central,Electronics,Headphones,283.12,10,0.11,69.37,2025,February
+ORD-1697,2023-09-07,East,Clothing,Jacket,2140.96,2,0.26,228.4,2023,September
+ORD-1698,2024-11-30,Central,Electronics,Camera,365.23,9,0.01,67.56,2024,November
+ORD-1699,2023-11-24,South,Clothing,Jeans,850.67,7,0.29,202.64,2023,November
+ORD-1700,2024-05-18,Central,Electronics,Laptop,2216.48,7,0.04,297.1,2024,May
+ORD-1701,2024-08-25,West,Electronics,Camera,1386.53,7,0.15,337.56,2024,August
+ORD-1702,2025-03-17,South,Furniture,Shelf,2840.55,8,0.12,547.75,2025,March
+ORD-1703,2023-10-23,Central,Furniture,Table,451.06,7,0.1,126.76,2023,October
+ORD-1704,2024-03-22,North,Electronics,Camera,2175.35,6,0.06,296.13,2024,March
+ORD-1705,2023-09-14,North,Clothing,Jeans,4939.49,10,0.25,1238.33,2023,September
+ORD-1706,2024-04-21,Central,Furniture,Shelf,319.9,4,0.06,45.89,2024,April
+ORD-1707,2023-12-17,North,Electronics,Mobile,1290.94,10,0.28,344.92,2023,December
+ORD-1708,2024-02-12,East,Electronics,Headphones,3499.6,2,0.09,587.22,2024,February
+ORD-1709,2024-04-18,East,Furniture,Table,1098.63,9,0.23,205.66,2024,April
+ORD-1710,2024-10-21,Central,Furniture,Chair,1945.37,9,0.01,180.1,2024,October
+ORD-1711,2024-08-28,East,Furniture,Couch,360.12,1,0.02,77.46,2024,August
+ORD-1712,2023-06-28,East,Electronics,Mobile,1533.23,7,0.07,222.59,2023,June
+ORD-1713,2024-12-19,North,Clothing,Jacket,4347.19,9,0.03,433.5,2024,December
+ORD-1714,2023-11-09,West,Electronics,Mobile,1312.22,9,0.09,226.34,2023,November
+ORD-1715,2024-08-19,South,Electronics,Headphones,3453.13,6,0.19,376.57,2024,August
+ORD-1716,2024-01-19,Central,Clothing,Shirt,3166.38,7,0.27,803.36,2024,January
+ORD-1717,2024-07-23,North,Clothing,Jeans,843.37,7,0.2,60.68,2024,July
+ORD-1718,2023-07-13,West,Furniture,Shelf,1277.77,3,0.13,163.68,2023,July
+ORD-1719,2024-11-27,Central,Clothing,Jacket,2756.95,4,0.2,538.32,2024,November
+ORD-1720,2023-09-26,South,Furniture,Couch,3473.81,9,0.27,547.18,2023,September
+ORD-1721,2024-10-05,South,Furniture,Couch,432.29,9,0.28,34.41,2024,October
+ORD-1722,2025-04-14,East,Furniture,Chair,3850.63,7,0.29,484.55,2025,April
+ORD-1723,2023-08-06,East,Furniture,Table,623.18,3,0.01,184.77,2023,August
+ORD-1724,2024-12-03,Central,Clothing,Jeans,3022.17,4,0.21,422.55,2024,December
+ORD-1725,2025-06-05,West,Furniture,Shelf,3588.89,6,0.06,527.08,2025,June
+ORD-1726,2023-10-24,West,Furniture,Table,1046.97,1,0.12,305.93,2023,October
+ORD-1727,2025-02-06,East,Home Decor,Clock,3737.6,4,0.23,248.68,2025,February
+ORD-1728,2023-07-17,West,Home Decor,Rug,4347.2,4,0.13,1060.95,2023,July
+ORD-1729,2023-10-28,Central,Home Decor,Rug,2031.34,10,0.18,368.3,2023,October
+ORD-1730,2024-10-18,North,Electronics,Camera,2338.81,1,0.26,260.61,2024,October
+ORD-1731,2024-10-08,Central,Home Decor,Lamp,2832.73,9,0.23,823.33,2024,October
+ORD-1732,2024-02-03,South,Clothing,Jacket,2050.4,5,0.23,249.08,2024,February
+ORD-1733,2024-01-07,South,Home Decor,Rug,3104.36,1,0.21,856.55,2024,January
+ORD-1734,2023-10-17,West,Home Decor,Lamp,3640.97,2,0.05,714.95,2023,October
+ORD-1735,2023-12-31,Central,Furniture,Shelf,2126.44,8,0.01,347.5,2023,December
+ORD-1736,2024-08-05,South,Home Decor,Lamp,1325.4,3,0.22,107.21,2024,August
+ORD-1737,2024-06-28,North,Home Decor,Rug,518.0,7,0.22,152.19,2024,June
+ORD-1738,2024-11-24,Central,Furniture,Shelf,2796.69,1,0.23,777.66,2024,November
+ORD-1739,2024-10-11,Central,Furniture,Table,4357.21,3,0.23,273.75,2024,October
+ORD-1740,2023-08-22,East,Clothing,Jacket,1515.02,3,0.04,125.58,2023,August
+ORD-1741,2023-10-10,South,Electronics,Headphones,159.82,8,0.26,29.71,2023,October
+ORD-1742,2024-12-18,North,Home Decor,Clock,1162.68,8,0.14,186.57,2024,December
+ORD-1743,2024-03-25,Central,Electronics,Laptop,4422.62,5,0.19,837.59,2024,March
+ORD-1744,2024-09-11,South,Electronics,Laptop,826.46,6,0.01,217.74,2024,September
+ORD-1745,2024-05-02,Central,Clothing,Shoes,4609.89,1,0.03,1375.75,2024,May
+ORD-1746,2025-06-17,South,Clothing,Jeans,4834.84,10,0.11,285.06,2025,June
+ORD-1747,2024-05-12,East,Clothing,Shoes,4497.9,2,0.23,1173.18,2024,May
+ORD-1748,2024-01-10,North,Clothing,Jacket,759.27,5,0.1,116.5,2024,January
+ORD-1749,2023-07-02,South,Furniture,Chair,635.58,9,0.3,108.63,2023,July
+ORD-1750,2024-08-05,Central,Clothing,Jacket,3083.34,6,0.08,597.51,2024,August
+ORD-1751,2025-04-20,Central,Clothing,Jeans,3110.02,8,0.16,646.77,2025,April
+ORD-1752,2024-11-21,West,Furniture,Table,3572.08,4,0.0,200.02,2024,November
+ORD-1753,2023-08-24,North,Furniture,Shelf,2128.8,6,0.1,535.42,2023,August
+ORD-1754,2024-05-30,South,Electronics,Laptop,3481.08,5,0.24,441.9,2024,May
+ORD-1755,2024-12-14,Central,Clothing,Shirt,657.8,6,0.1,152.02,2024,December
+ORD-1756,2024-05-15,Central,Electronics,Laptop,1050.68,6,0.28,178.38,2024,May
+ORD-1757,2024-04-15,West,Electronics,Laptop,2459.33,8,0.27,453.11,2024,April
+ORD-1758,2024-02-05,East,Home Decor,Vase,4646.17,1,0.25,580.01,2024,February
+ORD-1759,2023-09-10,East,Electronics,Laptop,2929.25,6,0.24,796.78,2023,September
+ORD-1760,2024-06-17,East,Electronics,Laptop,1474.25,1,0.1,212.01,2024,June
+ORD-1761,2024-12-31,Central,Furniture,Shelf,1018.16,2,0.26,242.21,2024,December
+ORD-1762,2024-07-14,East,Electronics,Headphones,2127.96,8,0.26,304.08,2024,July
+ORD-1763,2024-04-12,East,Furniture,Couch,957.56,6,0.24,234.07,2024,April
+ORD-1764,2023-12-18,North,Home Decor,Lamp,4015.22,9,0.05,542.17,2023,December
+ORD-1765,2025-06-24,West,Clothing,Shoes,802.15,2,0.25,228.22,2025,June
+ORD-1766,2024-08-31,South,Furniture,Chair,2350.91,9,0.03,300.32,2024,August
+ORD-1767,2024-01-27,North,Electronics,Headphones,2387.69,1,0.03,576.73,2024,January
+ORD-1768,2024-09-28,East,Electronics,Headphones,3230.37,4,0.1,317.02,2024,September
+ORD-1769,2024-07-27,East,Clothing,Jacket,3388.51,5,0.04,401.23,2024,July
+ORD-1770,2024-09-30,North,Electronics,Laptop,2758.39,9,0.1,235.54,2024,September
+ORD-1771,2024-06-13,East,Furniture,Table,449.09,10,0.27,83.15,2024,June
+ORD-1772,2024-03-18,North,Furniture,Chair,2406.6,1,0.03,152.7,2024,March
+ORD-1773,2024-09-01,West,Home Decor,Clock,3552.92,10,0.19,790.64,2024,September
+ORD-1774,2025-02-15,West,Clothing,Shoes,1728.43,4,0.21,376.31,2025,February
+ORD-1775,2025-04-11,Central,Electronics,Camera,2882.17,2,0.24,806.78,2025,April
+ORD-1776,2024-11-21,West,Electronics,Camera,1620.92,8,0.14,464.98,2024,November
+ORD-1777,2024-08-27,South,Clothing,Shoes,2021.18,6,0.24,546.93,2024,August
+ORD-1778,2024-06-11,West,Home Decor,Lamp,420.29,2,0.11,69.48,2024,June
+ORD-1779,2024-03-06,South,Clothing,Shoes,3061.76,3,0.15,463.62,2024,March
+ORD-1780,2024-09-22,North,Clothing,Shirt,3982.91,9,0.14,787.16,2024,September
+ORD-1781,2024-05-06,South,Furniture,Table,4872.07,7,0.02,497.24,2024,May
+ORD-1782,2024-12-28,Central,Home Decor,Vase,2879.33,6,0.16,313.96,2024,December
+ORD-1783,2024-08-17,North,Home Decor,Lamp,3001.6,8,0.1,223.36,2024,August
+ORD-1784,2024-12-13,West,Furniture,Couch,4783.83,2,0.18,1059.03,2024,December
+ORD-1785,2023-12-31,Central,Home Decor,Rug,2522.05,1,0.03,641.25,2023,December
+ORD-1786,2024-07-08,Central,Electronics,Laptop,3338.32,8,0.16,492.39,2024,July
+ORD-1787,2024-04-07,Central,Home Decor,Clock,1107.74,6,0.09,275.37,2024,April
+ORD-1788,2023-07-14,East,Home Decor,Rug,4952.42,10,0.0,1468.91,2023,July
+ORD-1789,2023-12-14,West,Furniture,Couch,405.81,9,0.29,20.38,2023,December
+ORD-1790,2024-07-24,Central,Clothing,Shirt,4320.11,1,0.07,974.42,2024,July
+ORD-1791,2024-02-22,West,Clothing,Jacket,2089.56,7,0.16,450.55,2024,February
+ORD-1792,2024-06-12,West,Furniture,Table,2821.57,6,0.25,249.9,2024,June
+ORD-1793,2024-05-19,South,Furniture,Chair,451.56,1,0.04,122.47,2024,May
+ORD-1794,2025-06-12,West,Furniture,Chair,772.38,7,0.26,211.17,2025,June
+ORD-1795,2024-01-25,Central,Home Decor,Clock,2326.53,7,0.17,378.09,2024,January
+ORD-1796,2024-04-15,East,Furniture,Table,2181.38,1,0.17,570.87,2024,April
+ORD-1797,2024-10-30,South,Clothing,Jacket,4640.17,10,0.11,1366.8,2024,October
+ORD-1798,2025-03-29,Central,Home Decor,Rug,654.51,8,0.29,45.83,2025,March
+ORD-1799,2023-09-22,Central,Clothing,Jacket,2633.05,9,0.27,189.87,2023,September
+ORD-1800,2024-04-17,West,Electronics,Headphones,3103.89,6,0.16,163.56,2024,April
+ORD-1801,2023-10-05,West,Home Decor,Rug,2162.98,5,0.09,127.25,2023,October
+ORD-1802,2023-10-09,Central,Clothing,Shoes,400.95,8,0.17,77.47,2023,October
+ORD-1803,2024-09-26,East,Electronics,Headphones,2475.32,3,0.15,650.67,2024,September
+ORD-1804,2025-02-06,East,Clothing,Jeans,3117.41,5,0.26,166.94,2025,February
+ORD-1805,2025-05-14,North,Furniture,Table,3329.86,6,0.24,383.98,2025,May
+ORD-1806,2024-07-09,South,Home Decor,Clock,4016.92,1,0.1,285.6,2024,July
+ORD-1807,2023-10-23,South,Furniture,Shelf,3788.53,7,0.23,414.79,2023,October
+ORD-1808,2024-07-11,West,Furniture,Table,2931.01,6,0.02,340.29,2024,July
+ORD-1809,2023-10-31,North,Electronics,Laptop,2373.67,8,0.09,561.46,2023,October
+ORD-1810,2024-09-24,Central,Furniture,Shelf,3449.2,7,0.14,297.62,2024,September
+ORD-1811,2024-12-20,West,Electronics,Headphones,4643.39,8,0.11,598.64,2024,December
+ORD-1812,2023-12-27,Central,Electronics,Mobile,4596.79,6,0.29,726.05,2023,December
+ORD-1813,2023-11-15,East,Clothing,Shoes,1408.73,2,0.08,276.17,2023,November
+ORD-1814,2024-12-11,West,Furniture,Table,2647.77,3,0.09,139.39,2024,December
+ORD-1815,2024-09-24,North,Electronics,Mobile,2115.12,9,0.03,341.56,2024,September
+ORD-1816,2025-02-26,South,Clothing,Shoes,1046.09,1,0.19,67.18,2025,February
+ORD-1817,2024-08-09,Central,Furniture,Chair,3569.57,2,0.03,718.1,2024,August
+ORD-1818,2024-03-24,West,Furniture,Chair,3508.7,5,0.09,754.79,2024,March
+ORD-1819,2025-05-28,North,Home Decor,Rug,3869.86,6,0.08,948.82,2025,May
+ORD-1820,2025-06-08,East,Electronics,Camera,2004.09,1,0.08,507.44,2025,June
+ORD-1821,2024-09-29,South,Home Decor,Lamp,2509.44,4,0.18,237.42,2024,September
+ORD-1822,2024-09-12,West,Electronics,Laptop,2749.1,7,0.07,579.61,2024,September
+ORD-1823,2023-11-28,West,Clothing,Shirt,270.82,2,0.17,30.51,2023,November
+ORD-1824,2023-11-03,West,Electronics,Camera,829.39,1,0.28,179.27,2023,November
+ORD-1825,2023-11-09,East,Furniture,Couch,4532.63,10,0.0,1028.46,2023,November
+ORD-1826,2023-12-07,West,Home Decor,Vase,2079.17,2,0.16,105.68,2023,December
+ORD-1827,2023-12-04,West,Electronics,Headphones,1733.85,5,0.12,360.76,2023,December
+ORD-1828,2025-04-15,North,Clothing,Shoes,494.24,8,0.23,60.54,2025,April
+ORD-1829,2023-09-22,South,Furniture,Chair,4840.81,4,0.09,714.15,2023,September
+ORD-1830,2024-09-18,North,Clothing,Jacket,515.83,8,0.22,43.84,2024,September
+ORD-1831,2025-01-25,South,Electronics,Laptop,2497.24,2,0.24,526.55,2025,January
+ORD-1832,2024-05-22,West,Home Decor,Lamp,281.51,1,0.1,64.82,2024,May
+ORD-1833,2025-01-10,West,Electronics,Laptop,4054.81,9,0.14,890.11,2025,January
+ORD-1834,2024-10-05,Central,Furniture,Table,4631.6,1,0.22,797.67,2024,October
+ORD-1835,2024-01-13,North,Home Decor,Lamp,1289.14,3,0.0,268.35,2024,January
+ORD-1836,2024-07-27,East,Electronics,Camera,3095.01,10,0.02,787.27,2024,July
+ORD-1837,2024-07-10,North,Home Decor,Clock,409.24,4,0.13,103.49,2024,July
+ORD-1838,2024-07-05,West,Clothing,Shirt,4881.68,10,0.16,636.56,2024,July
+ORD-1839,2025-04-12,South,Electronics,Laptop,1743.97,2,0.08,417.48,2025,April
+ORD-1840,2025-01-31,South,Clothing,Jeans,2249.44,10,0.01,168.69,2025,January
+ORD-1841,2023-11-30,Central,Home Decor,Clock,176.59,8,0.02,9.15,2023,November
+ORD-1842,2025-01-10,North,Clothing,Jacket,3498.17,8,0.21,355.2,2025,January
+ORD-1843,2024-11-25,East,Home Decor,Vase,1272.34,3,0.18,75.58,2024,November
+ORD-1844,2024-10-29,South,Home Decor,Lamp,3173.24,5,0.1,162.29,2024,October
+ORD-1845,2024-07-19,South,Furniture,Chair,4934.36,2,0.19,1310.97,2024,July
+ORD-1846,2023-07-23,Central,Furniture,Shelf,3874.62,4,0.08,381.38,2023,July
+ORD-1847,2024-07-31,South,Home Decor,Vase,963.99,1,0.02,135.97,2024,July
+ORD-1848,2025-03-18,South,Home Decor,Rug,1738.04,8,0.01,408.62,2025,March
+ORD-1849,2024-12-19,Central,Furniture,Table,3948.91,8,0.15,267.4,2024,December
+ORD-1850,2025-01-18,South,Home Decor,Rug,2153.42,6,0.07,166.96,2025,January
+ORD-1851,2025-03-06,South,Electronics,Laptop,3714.96,4,0.11,390.69,2025,March
+ORD-1852,2025-06-10,West,Home Decor,Lamp,4463.4,3,0.06,903.21,2025,June
+ORD-1853,2024-08-02,South,Home Decor,Rug,768.38,4,0.19,225.82,2024,August
+ORD-1854,2024-12-21,South,Clothing,Jeans,257.26,10,0.02,21.64,2024,December
+ORD-1855,2025-06-01,West,Home Decor,Vase,938.89,6,0.07,116.23,2025,June
+ORD-1856,2023-07-04,South,Furniture,Table,523.72,9,0.15,156.55,2023,July
+ORD-1857,2023-08-20,Central,Home Decor,Vase,1467.94,7,0.22,163.92,2023,August
+ORD-1858,2025-05-15,East,Home Decor,Clock,4469.93,10,0.28,1244.6,2025,May
+ORD-1859,2023-10-17,North,Home Decor,Lamp,296.29,8,0.22,52.16,2023,October
+ORD-1860,2024-11-20,West,Home Decor,Vase,4067.61,2,0.14,447.96,2024,November
+ORD-1861,2023-12-06,Central,Electronics,Camera,4754.68,3,0.11,521.9,2023,December
+ORD-1862,2025-05-09,North,Electronics,Camera,3378.27,3,0.21,893.49,2025,May
+ORD-1863,2024-11-17,Central,Electronics,Camera,2372.43,3,0.26,359.04,2024,November
+ORD-1864,2024-09-27,East,Home Decor,Lamp,4315.87,2,0.12,961.09,2024,September
+ORD-1865,2023-10-17,Central,Electronics,Headphones,2186.92,5,0.21,444.22,2023,October
+ORD-1866,2023-12-09,Central,Furniture,Chair,3140.23,6,0.22,200.04,2023,December
+ORD-1867,2024-08-26,East,Electronics,Mobile,1976.48,8,0.19,279.46,2024,August
+ORD-1868,2023-08-05,South,Electronics,Laptop,778.19,6,0.07,61.0,2023,August
+ORD-1869,2025-06-06,West,Furniture,Table,1670.27,5,0.15,260.11,2025,June
+ORD-1870,2023-06-28,North,Electronics,Headphones,1791.61,8,0.15,461.14,2023,June
+ORD-1871,2023-11-06,West,Clothing,Jacket,3142.66,2,0.06,851.64,2023,November
+ORD-1872,2025-02-22,North,Electronics,Camera,4499.93,5,0.29,311.56,2025,February
+ORD-1873,2024-06-28,South,Clothing,Shirt,3515.7,8,0.05,355.31,2024,June
+ORD-1874,2025-05-28,North,Clothing,Jacket,4850.92,9,0.28,817.26,2025,May
+ORD-1875,2024-03-15,West,Home Decor,Lamp,1528.43,2,0.01,382.87,2024,March
+ORD-1876,2025-04-25,Central,Clothing,Jacket,2935.65,6,0.15,635.46,2025,April
+ORD-1877,2025-05-06,Central,Home Decor,Vase,1590.0,3,0.27,201.33,2025,May
+ORD-1878,2024-04-14,East,Furniture,Shelf,1922.32,5,0.23,118.86,2024,April
+ORD-1879,2024-02-17,East,Clothing,Jacket,4785.45,10,0.28,1090.86,2024,February
+ORD-1880,2025-01-09,East,Furniture,Table,4212.73,3,0.05,333.77,2025,January
+ORD-1881,2025-05-24,East,Furniture,Shelf,1376.0,3,0.06,312.05,2025,May
+ORD-1882,2024-07-17,East,Clothing,Jeans,1927.28,9,0.29,353.48,2024,July
+ORD-1883,2024-03-18,North,Electronics,Camera,4662.24,3,0.28,1314.53,2024,March
+ORD-1884,2024-01-03,South,Electronics,Headphones,3271.5,5,0.14,400.62,2024,January
+ORD-1885,2024-12-13,Central,Furniture,Shelf,1759.55,2,0.22,483.95,2024,December
+ORD-1886,2023-12-23,South,Electronics,Headphones,221.5,10,0.25,35.77,2023,December
+ORD-1887,2023-07-15,North,Clothing,Shirt,3079.94,4,0.18,325.04,2023,July
+ORD-1888,2023-11-26,East,Furniture,Chair,509.59,8,0.2,147.48,2023,November
+ORD-1889,2024-02-05,Central,Home Decor,Clock,2503.28,10,0.18,715.56,2024,February
+ORD-1890,2024-07-22,East,Home Decor,Clock,3608.22,7,0.11,516.73,2024,July
+ORD-1891,2025-01-14,East,Clothing,Shoes,1609.62,8,0.26,115.73,2025,January
+ORD-1892,2025-01-11,West,Home Decor,Vase,1514.31,7,0.22,232.52,2025,January
+ORD-1893,2023-10-08,Central,Electronics,Laptop,1118.14,8,0.3,202.75,2023,October
+ORD-1894,2024-10-03,East,Electronics,Camera,533.4,7,0.19,63.12,2024,October
+ORD-1895,2024-01-28,South,Home Decor,Clock,1076.36,7,0.09,185.83,2024,January
+ORD-1896,2025-06-02,East,Clothing,Jacket,2840.48,8,0.07,703.88,2025,June
+ORD-1897,2024-01-20,South,Clothing,Shoes,4784.53,8,0.04,1035.75,2024,January
+ORD-1898,2024-12-14,East,Home Decor,Clock,2510.24,4,0.01,605.42,2024,December
+ORD-1899,2024-11-18,West,Electronics,Headphones,2947.22,10,0.13,337.39,2024,November
+ORD-1900,2025-06-26,West,Electronics,Headphones,2611.38,10,0.01,300.01,2025,June
+ORD-1901,2024-06-13,Central,Electronics,Laptop,1666.44,3,0.11,105.36,2024,June
+ORD-1902,2024-03-29,East,Home Decor,Rug,338.7,5,0.16,96.22,2024,March
+ORD-1903,2023-09-30,Central,Furniture,Table,3846.98,10,0.23,715.26,2023,September
+ORD-1904,2023-08-23,East,Clothing,Shoes,3458.67,6,0.03,674.48,2023,August
+ORD-1905,2024-12-06,South,Electronics,Laptop,2639.04,6,0.23,403.77,2024,December
+ORD-1906,2025-06-15,South,Electronics,Laptop,857.32,4,0.25,213.28,2025,June
+ORD-1907,2024-04-14,Central,Electronics,Camera,2356.41,2,0.03,195.13,2024,April
+ORD-1908,2023-12-16,North,Home Decor,Rug,1626.71,6,0.04,261.06,2023,December
+ORD-1909,2024-06-29,Central,Clothing,Jeans,3578.48,1,0.22,285.02,2024,June
+ORD-1910,2024-07-13,South,Furniture,Table,1606.4,4,0.04,111.89,2024,July
+ORD-1911,2025-05-17,North,Electronics,Mobile,3895.99,7,0.01,299.81,2025,May
+ORD-1912,2024-11-30,Central,Electronics,Camera,682.72,5,0.01,85.62,2024,November
+ORD-1913,2023-11-28,North,Electronics,Mobile,4608.48,4,0.18,460.88,2023,November
+ORD-1914,2024-04-01,East,Electronics,Mobile,813.23,5,0.28,111.38,2024,April
+ORD-1915,2023-09-23,South,Furniture,Chair,585.62,10,0.23,106.71,2023,September
+ORD-1916,2025-03-22,South,Clothing,Jeans,4518.14,9,0.0,1045.21,2025,March
+ORD-1917,2025-01-31,South,Home Decor,Rug,3520.85,3,0.13,1019.06,2025,January
+ORD-1918,2023-08-01,South,Clothing,Jacket,2178.05,9,0.07,170.35,2023,August
+ORD-1919,2025-03-21,East,Electronics,Camera,640.55,3,0.15,89.88,2025,March
+ORD-1920,2024-12-12,East,Electronics,Mobile,1707.77,2,0.12,280.48,2024,December
+ORD-1921,2024-09-29,East,Home Decor,Clock,2814.19,5,0.3,441.8,2024,September
+ORD-1922,2025-01-19,North,Home Decor,Rug,978.56,8,0.2,145.9,2025,January
+ORD-1923,2025-04-18,Central,Electronics,Mobile,802.5,7,0.21,236.25,2025,April
+ORD-1924,2024-04-29,South,Electronics,Headphones,4878.52,6,0.06,1273.33,2024,April
+ORD-1925,2024-02-14,West,Electronics,Laptop,4206.73,8,0.08,960.71,2024,February
+ORD-1926,2023-11-30,Central,Clothing,Jacket,1844.88,10,0.29,547.71,2023,November
+ORD-1927,2023-09-26,Central,Clothing,Jeans,3863.2,2,0.04,665.77,2023,September
+ORD-1928,2024-06-12,South,Furniture,Chair,588.06,1,0.25,102.64,2024,June
+ORD-1929,2025-04-29,North,Furniture,Shelf,3062.46,6,0.05,629.31,2025,April
+ORD-1930,2024-04-13,North,Electronics,Camera,3984.38,4,0.09,695.17,2024,April
+ORD-1931,2024-01-06,Central,Clothing,Shoes,4066.46,9,0.16,1171.73,2024,January
+ORD-1932,2025-03-11,North,Home Decor,Lamp,1979.79,6,0.26,318.03,2025,March
+ORD-1933,2025-01-22,North,Electronics,Laptop,2827.67,5,0.27,257.42,2025,January
+ORD-1934,2024-01-03,West,Furniture,Couch,3607.04,8,0.23,693.32,2024,January
+ORD-1935,2025-04-08,West,Home Decor,Vase,2855.05,3,0.15,422.11,2025,April
+ORD-1936,2024-11-08,West,Home Decor,Rug,3855.71,5,0.1,219.92,2024,November
+ORD-1937,2024-01-03,North,Furniture,Couch,1809.5,10,0.01,493.7,2024,January
+ORD-1938,2024-03-15,East,Home Decor,Lamp,2197.93,6,0.12,140.91,2024,March
+ORD-1939,2024-02-24,South,Furniture,Table,3275.61,10,0.03,727.18,2024,February
+ORD-1940,2024-06-17,East,Electronics,Headphones,931.92,9,0.1,153.98,2024,June
+ORD-1941,2025-05-10,West,Home Decor,Rug,199.97,8,0.18,59.28,2025,May
+ORD-1942,2025-04-11,West,Home Decor,Rug,2905.44,8,0.03,635.65,2025,April
+ORD-1943,2024-12-08,East,Home Decor,Rug,916.47,5,0.11,145.72,2024,December
+ORD-1944,2024-09-27,West,Electronics,Laptop,1508.04,1,0.09,291.63,2024,September
+ORD-1945,2025-02-19,South,Electronics,Mobile,3000.14,5,0.02,750.92,2025,February
+ORD-1946,2023-07-18,West,Home Decor,Clock,1801.85,2,0.2,226.06,2023,July
+ORD-1947,2024-03-22,East,Home Decor,Rug,1080.38,7,0.08,193.22,2024,March
+ORD-1948,2024-07-22,Central,Furniture,Chair,3176.44,9,0.26,616.9,2024,July
+ORD-1949,2024-12-07,South,Home Decor,Rug,4692.1,9,0.24,1234.93,2024,December
+ORD-1950,2023-09-04,West,Electronics,Laptop,1884.95,3,0.07,445.99,2023,September
+ORD-1951,2023-09-04,East,Home Decor,Vase,1661.4,2,0.19,434.44,2023,September
+ORD-1952,2023-10-03,East,Clothing,Jeans,1356.59,10,0.07,148.71,2023,October
+ORD-1953,2025-04-08,South,Furniture,Chair,1303.37,5,0.14,247.58,2025,April
+ORD-1954,2024-04-07,West,Home Decor,Lamp,1089.75,5,0.04,124.88,2024,April
+ORD-1955,2024-03-31,East,Furniture,Chair,4822.56,8,0.23,307.83,2024,March
+ORD-1956,2024-07-20,North,Clothing,Shoes,4349.14,7,0.27,947.76,2024,July
+ORD-1957,2023-11-06,North,Home Decor,Clock,1256.6,10,0.22,355.91,2023,November
+ORD-1958,2024-05-27,Central,Clothing,Jacket,4434.37,4,0.18,1078.87,2024,May
+ORD-1959,2024-05-08,East,Clothing,Jacket,4048.62,4,0.28,423.09,2024,May
+ORD-1960,2023-09-19,North,Furniture,Table,4852.63,8,0.12,1289.47,2023,September
+ORD-1961,2023-12-20,North,Home Decor,Rug,3528.13,2,0.09,550.2,2023,December
+ORD-1962,2024-04-04,South,Clothing,Jeans,1878.69,6,0.25,103.83,2024,April
+ORD-1963,2024-03-23,Central,Electronics,Mobile,3484.34,4,0.08,509.31,2024,March
+ORD-1964,2024-09-16,East,Electronics,Laptop,4302.47,7,0.0,1248.52,2024,September
+ORD-1965,2024-10-25,East,Clothing,Shirt,4687.98,4,0.09,1241.63,2024,October
+ORD-1966,2025-03-24,South,Home Decor,Rug,4409.39,7,0.24,522.55,2025,March
+ORD-1967,2023-11-28,North,Home Decor,Vase,3711.02,6,0.22,998.97,2023,November
+ORD-1968,2023-11-17,North,Furniture,Couch,2581.04,6,0.13,599.6,2023,November
+ORD-1969,2024-07-19,Central,Clothing,Jacket,3506.53,1,0.19,336.4,2024,July
+ORD-1970,2024-06-10,West,Furniture,Chair,2063.24,5,0.09,145.58,2024,June
+ORD-1971,2023-07-18,South,Furniture,Table,4250.11,7,0.24,551.88,2023,July
+ORD-1972,2024-07-11,West,Furniture,Couch,950.05,10,0.25,237.4,2024,July
+ORD-1973,2025-02-14,South,Electronics,Camera,1901.24,7,0.26,544.11,2025,February
+ORD-1974,2023-11-05,Central,Furniture,Chair,4745.74,9,0.19,980.74,2023,November
+ORD-1975,2023-07-17,North,Home Decor,Clock,1382.74,3,0.01,282.77,2023,July
+ORD-1976,2024-11-13,Central,Clothing,Jeans,536.4,6,0.05,102.89,2024,November
+ORD-1977,2025-04-13,North,Home Decor,Vase,4153.56,8,0.04,948.64,2025,April
+ORD-1978,2024-12-19,South,Clothing,Shoes,3757.57,7,0.04,992.32,2024,December
+ORD-1979,2024-11-11,Central,Furniture,Couch,3660.87,4,0.13,556.93,2024,November
+ORD-1980,2025-06-22,South,Electronics,Headphones,4883.03,4,0.19,1351.78,2025,June
+ORD-1981,2023-11-28,East,Home Decor,Lamp,150.57,3,0.26,44.21,2023,November
+ORD-1982,2025-01-22,West,Furniture,Shelf,3571.42,10,0.08,263.64,2025,January
+ORD-1983,2024-05-02,North,Electronics,Headphones,4662.22,8,0.27,1394.87,2024,May
+ORD-1984,2023-11-18,Central,Electronics,Mobile,1342.92,10,0.11,395.33,2023,November
+ORD-1985,2024-06-28,East,Furniture,Chair,2944.39,5,0.05,510.0,2024,June
+ORD-1986,2024-01-12,East,Home Decor,Clock,539.28,9,0.13,62.07,2024,January
+ORD-1987,2025-04-18,East,Electronics,Laptop,2546.13,5,0.22,716.89,2025,April
+ORD-1988,2024-11-04,East,Clothing,Shoes,2633.17,7,0.27,339.38,2024,November
+ORD-1989,2023-11-24,West,Furniture,Shelf,360.79,3,0.02,34.56,2023,November
+ORD-1990,2024-04-18,West,Clothing,Jeans,3559.22,7,0.03,974.49,2024,April
+ORD-1991,2024-03-05,West,Electronics,Camera,1846.95,9,0.15,319.98,2024,March
+ORD-1992,2023-11-13,South,Electronics,Headphones,558.53,5,0.05,51.43,2023,November
+ORD-1993,2025-01-02,Central,Clothing,Jeans,2959.38,1,0.16,570.26,2025,January
+ORD-1994,2024-05-17,West,Electronics,Laptop,3864.44,2,0.27,218.3,2024,May
+ORD-1995,2023-12-30,North,Home Decor,Rug,2992.66,2,0.25,264.68,2023,December
+ORD-1996,2024-10-21,North,Home Decor,Vase,2324.87,5,0.18,119.62,2024,October
+ORD-1997,2024-05-22,North,Home Decor,Rug,4742.35,10,0.04,1260.61,2024,May
+ORD-1998,2025-05-25,East,Clothing,Shirt,3744.62,9,0.29,544.27,2025,May
+ORD-1999,2024-06-28,West,Clothing,Jeans,1276.39,7,0.03,335.8,2024,June
